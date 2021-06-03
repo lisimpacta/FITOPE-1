@@ -1,0 +1,509 @@
+id_pedido,cliente_id,data_pedido,data_pagamento,data_envio,status,fonte_mkt,comments,nf,meio_pagamento,valor,SKU,quantidade,preco_unitario,nome_produto,cor,tamanho,categoria
+399,161,22/02/2021,22/02/2021,,aguardando pagamento,instagram,,,Boleto,99.9,bermuda-masc-cinza,1,99.9,Bermuda Cinza,cinza,M,Bermuda
+408,51,27/02/2021,27/02/2021,,aguardando pagamento,adwords,,,Boleto,99.9,bermuda-masc-cinza,1,99.9,Bermuda Cinza,cinza,G,Bermuda
+405,255,26/02/2021,26/02/2021,,aguardando pagamento,instagram,,,Boleto,39.9,bermuda-masc-praia-listrada,1,39.9,Bermuda Praia,listrada,G,Bermuda
+396,160,21/02/2021,21/02/2021,,aguardando pagamento,adwords,,,Boleto,179.9,calca-masc-jeans,1,179.9,Calca Jeans,jeans,M,Calça
+407,27,27/02/2021,27/02/2021,,aguardando pagamento,adwords,,,Boleto,139.9,calca-masc-marrom,1,139.9,Calça Lisa,marrom,G,Calça
+405,255,26/02/2021,26/02/2021,,aguardando pagamento,instagram,,,Boleto,129.9,camisa-masc-azul-escuro,1,129.9,Camisa Social,azul,M,Camisa
+404,113,25/02/2021,25/02/2021,,aguardando pagamento,organic,,,Boleto,139.9,camisa-masc-jeans,1,139.9,Camisa Social,jeans,G,Camisa
+406,35,26/02/2021,26/02/2021,,aguardando pagamento,organic,,,Boleto,139.9,camisa-masc-jeans,1,139.9,Camisa Social,jeans,P,Camisa
+402,7,24/02/2021,24/02/2021,,aguardando pagamento,instagram,,,Boleto,119.9,camisa-masc-preta,1,119.9,Camisa Social,preta,G,Camisa
+55,206,29/04/2020,01/05/2020,03/05/2020,concluido,instagram,,nf94/2020,Boleto,79.8,camiseta-masc-listrada,2,39.9,Camiseta Lisa,branca,M,Camiseta
+312,86,01/12/2020,01/12/2020,03/12/2020,concluido,instagram,,nf430/2020,Cartão de crédito,51.8,camiseta-masc-listrada,2,25.9,Camiseta Listrada,listrada,G,Camiseta
+32,195,31/03/2020,02/04/2020,05/04/2020,concluido,outros,,nf41/2020,Boleto,39.9,camiseta-masc-preta-lisa,1,39.9,Camiseta Lisa,preta,M,Camiseta
+15,131,06/03/2020,06/03/2020,,cancelado,instagram,,,Boleto,79.9,bermuda-masc-cinza,1,79.9,Bermuda Cinza,cinza,P,Bermuda
+82,57,19/05/2020,19/05/2020,,cancelado,organic,,,Boleto,79.9,bermuda-masc-cinza,1,79.9,Bermuda Cinza,cinza,GG,Bermuda
+248,149,14/11/2020,14/11/2020,,cancelado,organic,,,Boleto,49.9,bermuda-masc-cinza,1,49.9,Bermuda Cinza,cinza,G,Bermuda
+381,43,08/02/2021,08/02/2021,,cancelado,instagram,,,Boleto,99.9,bermuda-masc-cinza,1,99.9,Bermuda Cinza,cinza,G,Bermuda
+102,204,08/06/2020,08/06/2020,,cancelado,organic,,,Cartão de crédito,159.8,bermuda-masc-cinza,2,79.9,Bermuda Cinza,cinza,GG,Bermuda
+216,142,12/10/2020,12/10/2020,,cancelado,organic,,,Boleto,79.9,bermuda-masc-cinza,1,79.9,Bermuda Cinza,cinza,GG,Bermuda
+170,216,22/08/2020,22/08/2020,,cancelado,outros,,,Boleto,89.9,bermuda-masc-linho-off_white,1,89.9,Bermuda Linho,off white,G,Bermuda
+1,177,02/01/2020,02/01/2020,,cancelado,organic,,,Boleto,89.9,bermuda-masc-linho-preta,1,89.9,Bermuda Linho,preta,M,Bermuda
+75,159,15/05/2020,15/05/2020,,cancelado,organic,,,Boleto,89.9,bermuda-masc-linho-preta,1,89.9,Bermuda Linho,preta,P,Bermuda
+82,57,19/05/2020,19/05/2020,,cancelado,organic,,,Boleto,79.9,bermuda-masc-linho-preta,1,79.9,Bermuda Linho,preta,G,Bermuda
+75,159,15/05/2020,15/05/2020,,cancelado,organic,,,Boleto,79.9,bermuda-masc-preta,1,79.9,Bermuda Preta,preta,M,Bermuda
+131,101,20/07/2020,20/07/2020,,cancelado,adwords,,,Boleto,79.9,bermuda-masc-preta-lisa,1,79.9,Bermuda Preta,preta,P,Bermuda
+197,207,22/09/2020,22/09/2020,,cancelado,outros,,,Boleto,159.8,bermuda-masc-preta-lisa,2,79.9,Bermuda Preta,preta,M,Bermuda
+216,142,12/10/2020,12/10/2020,,cancelado,organic,,,Boleto,79.8,bermuda-masc-preta-lisa,2,39.9,Bermuda Preta,preta,P,Bermuda
+101,257,08/06/2020,08/06/2020,,cancelado,outros,,,Boleto,119.9,calca-masc-branca,1,119.9,Calça Branca,branca,G,Calça
+63,100,08/05/2020,08/05/2020,,cancelado,adwords,,,Cartão de crédito,119.9,calca-masc-marrom,1,119.9,Calça Lisa,marrom,M,Calça
+97,149,06/06/2020,06/06/2020,,cancelado,instagram,,,Boleto,89.9,calca-masc-marrom,1,89.9,Calça Lisa,marrom,M,Calça
+168,28,21/08/2020,21/08/2020,,cancelado,outros,,,Boleto,89.9,calca-masc-marrom,1,89.9,Calça Lisa,marrom,M,Calça
+97,149,06/06/2020,06/06/2020,,cancelado,instagram,,,Boleto,99.9,camisa-masc-branca,1,99.9,Camisa Social,branca,M,Camisa
+147,170,04/08/2020,04/08/2020,,cancelado,organic,,,Boleto,99.9,camisa-masc-branca,1,99.9,Camisa Social,branca,G,Camisa
+348,167,13/01/2021,13/01/2021,,cancelado,instagram,,,Boleto,139.9,camisa-masc-jeans,1,139.9,Camisa Social,jeans,M,Camisa
+371,81,31/01/2021,31/01/2021,,cancelado,organic,,,Boleto,139.9,camisa-masc-jeans,1,139.9,Camisa Social,jeans,M,Camisa
+194,237,20/09/2020,20/09/2020,,cancelado,organic,,,Pag Seguro,99.9,camisa-masc-preta,1,99.9,Camisa Social,preta,P,Camisa
+148,107,04/08/2020,04/08/2020,,cancelado,organic,,,Boleto,99.9,camisa-masc-preta,1,99.9,Camisa Preta,preta,M,Camisa
+175,143,29/08/2020,02/09/2020,03/09/2020,concluido,outros,,nf271/2020,Boleto,39.9,camiseta-masc-azul-lisa,1,39.9,Camiseta Lisa,azul,M,Camiseta
+177,103,29/08/2020,02/09/2020,06/09/2020,concluido,adwords,,nf273/2020,Boleto,39.9,camiseta-masc-listrada,1,39.9,Camiseta Listrada,listrada,P,Camiseta
+179,138,29/08/2020,02/09/2020,04/09/2020,concluido,outros,,nf275/2020,Boleto,39.9,camiseta-masc-preta-lisa,1,39.9,Camiseta Lisa,preta,P,Camiseta
+178,12,29/08/2020,02/09/2020,06/09/2020,concluido,instagram,,nf274/2020,Boleto,39.9,camiseta-masc-verde-lisa,1,39.9,Camiseta Lisa,verde,M,Camiseta
+183,9,02/09/2020,02/09/2020,04/09/2020,concluido,organic,,nf284/2020,Pag Seguro,79.8,camiseta-masc-verde-lisa,2,39.9,Camiseta Lisa,verde,M,Camiseta
+8,32,02/02/2020,03/02/2020,05/02/2020,concluido,instagram,,nf13/2020,Boleto,39.9,camiseta-masc-preta-lisa,1,39.9,Camiseta Lisa,preta,M,Camiseta
+39,47,03/04/2020,03/04/2020,,cancelado,adwords,,,Boleto,39.9,camiseta-masc-preta-lisa,1,39.9,Camiseta Lisa,preta,M,Camiseta
+36,45,01/04/2020,03/04/2020,05/04/2020,concluido,organic,,nf45/2020,Boleto,39.9,camiseta-masc-listrada,1,39.9,Camiseta Listrada,listrada,P,Camiseta
+35,53,01/04/2020,03/04/2020,05/04/2020,concluido,adwords,,nf44/2020,Boleto,39.9,camiseta-masc-preta-lisa,1,39.9,Camiseta Lisa,preta,M,Camiseta
+37,93,01/04/2020,03/04/2020,05/04/2020,concluido,organic,,nf53/2020,Cartão de crédito,39.9,camiseta-masc-verde-lisa,1,39.9,Camiseta Lisa,verde,G,Camiseta
+61,47,03/05/2020,03/05/2020,05/05/2020,concluido,instagram,,nf100/2020,Cartão de crédito,39.9,camiseta-masc-azul-lisa,1,39.9,Camiseta Lisa,azul,M,Camiseta
+150,213,04/08/2020,04/08/2020,06/08/2020,concluido,instagram,,nf234/2020,Cartão de crédito,119.7,camiseta-masc-azul-lisa,3,39.9,Camiseta Lisa,azul,G,Camiseta
+2,107,11/01/2020,12/01/2020,14/01/2020,concluido,adwords,,,Cartão de crédito,79.9,bermuda-masc-cinza,1,79.9,Bermuda Cinza,cinza,G,Bermuda
+30,223,25/03/2020,27/03/2020,29/03/2020,concluido,instagram,,nf38/2020,Boleto,79.9,bermuda-masc-cinza,1,79.9,Bermuda Cinza,cinza,GG,Bermuda
+38,240,02/04/2020,04/04/2020,08/04/2020,concluido,organic,,nf56/2020,Pag Seguro,79.9,bermuda-masc-cinza,1,79.9,Bermuda Cinza,cinza,GG,Bermuda
+46,13,20/04/2020,22/04/2020,26/04/2020,concluido,instagram,,nf67/2020,Boleto,79.9,bermuda-masc-cinza,1,79.9,Bermuda Cinza,cinza,GG,Bermuda
+57,88,01/05/2020,05/05/2020,08/05/2020,concluido,instagram,,nf96/2020,Boleto,79.9,bermuda-masc-cinza,1,79.9,Bermuda Cinza,cinza,GG,Bermuda
+249,215,14/11/2020,14/11/2020,16/11/2020,concluido,organic,,nf357/2020,Pag Seguro,39.9,bermuda-masc-cinza,1,39.9,Bermuda Cinza,cinza,GG,Bermuda
+263,25,16/11/2020,20/11/2020,22/11/2020,concluido,instagram,,nf376/2020,Boleto,49.9,bermuda-masc-cinza,1,49.9,Bermuda Cinza,cinza,G,Bermuda
+272,47,25/11/2020,25/11/2020,27/11/2020,concluido,organic,,nf385/2020,Pag Seguro,99.8,bermuda-masc-cinza,2,49.9,Bermuda Cinza,cinza,M,Bermuda
+275,90,25/11/2020,29/11/2020,02/12/2020,concluido,organic,,nf388/2020,Boleto,49.9,bermuda-masc-cinza,1,49.9,Bermuda Cinza,cinza,P,Bermuda
+275,90,25/11/2020,29/11/2020,02/12/2020,concluido,organic,,nf388/2020,Boleto,79.8,bermuda-masc-cinza,2,39.9,Bermuda Cinza,cinza,GG,Bermuda
+281,196,25/11/2020,25/11/2020,27/11/2020,concluido,instagram,,nf394/2020,Cartão de crédito,49.9,bermuda-masc-cinza,1,49.9,Bermuda Cinza,cinza,P,Bermuda
+288,38,25/11/2020,29/11/2020,01/12/2020,concluido,organic,,nf401/2020,Boleto,49.9,bermuda-masc-cinza,1,49.9,Bermuda Cinza,cinza,P,Bermuda
+293,213,25/11/2020,29/11/2020,01/12/2020,concluido,instagram,,nf406/2020,Boleto,49.9,bermuda-masc-cinza,1,49.9,Bermuda Cinza,cinza,P,Bermuda
+309,188,30/11/2020,30/11/2020,02/12/2020,concluido,organic,,nf422/2020,Pag Seguro,49.9,bermuda-masc-cinza,1,49.9,Bermuda Cinza,cinza,P,Bermuda
+173,263,24/08/2020,24/08/2020,26/08/2020,concluido,instagram,,nf269/2020,Cartão de crédito,59.9,bermuda-masc-cinza,1,59.9,Bermuda Cinza,cinza,M,Bermuda
+200,274,01/10/2020,01/10/2020,03/10/2020,concluido,organic,,nf301/2020,Pag Seguro,59.9,bermuda-masc-cinza,1,59.9,Bermuda Cinza,cinza,P,Bermuda
+219,166,12/10/2020,16/10/2020,18/10/2020,concluido,organic,,nf323/2020,Boleto,119.8,bermuda-masc-cinza,2,59.9,Bermuda Cinza,cinza,P,Bermuda
+234,4,01/11/2020,05/11/2020,07/11/2020,concluido,adwords,,nf342/2020,Boleto,119.8,bermuda-masc-cinza,2,59.9,Bermuda Cinza,cinza,GG,Bermuda
+94,175,06/06/2020,10/06/2020,12/06/2020,concluido,instagram,,nf156/2020,Boleto,79.9,bermuda-masc-cinza,1,79.9,Bermuda Cinza,cinza,G,Bermuda
+124,108,13/07/2020,17/07/2020,19/07/2020,concluido,outros,,nf200/2020,Boleto,79.9,bermuda-masc-cinza,1,79.9,Bermuda Cinza,cinza,P,Bermuda
+126,39,16/07/2020,16/07/2020,18/07/2020,concluido,adwords,,nf202/2020,Cartão de crédito,79.9,bermuda-masc-cinza,1,79.9,Bermuda Cinza,cinza,G,Bermuda
+164,156,19/08/2020,23/08/2020,25/08/2020,concluido,organic,,nf254/2020,Boleto,79.9,bermuda-masc-cinza,1,79.9,Bermuda Cinza,cinza,M,Bermuda
+7,81,17/01/2020,18/01/2020,20/01/2020,concluido,instagram,,nf12/2020,Cartão de crédito,89.9,bermuda-masc-linho-off_white,1,89.9,Bermuda Linho,off white,G,Bermuda
+12,232,11/02/2020,12/02/2020,15/02/2020,concluido,adwords,,nf17/2020,Cartão de crédito,179.8,bermuda-masc-linho-off_white,2,89.9,Bermuda Linho,off white,G,Bermuda
+44,235,20/04/2020,22/04/2020,24/04/2020,concluido,adwords,,nf65/2020,Boleto,89.9,bermuda-masc-linho-off_white,1,89.9,Bermuda Linho,off white,G,Bermuda
+70,275,13/05/2020,17/05/2020,18/05/2020,concluido,organic,,nf115/2020,Boleto,89.9,bermuda-masc-linho-off_white,1,89.9,Bermuda Linho,off white,P,Bermuda
+77,55,16/05/2020,20/05/2020,22/05/2020,concluido,adwords,,nf129/2020,Boleto,89.9,bermuda-masc-linho-off_white,1,89.9,Bermuda Linho,off white,G,Bermuda
+181,240,02/09/2020,06/09/2020,08/09/2020,concluido,organic,,nf282/2020,Boleto,89.9,bermuda-masc-linho-off_white,1,89.9,Bermuda Linho,off white,P,Bermuda
+188,78,08/09/2020,12/09/2020,14/09/2020,concluido,instagram,,nf289/2020,Boleto,89.9,bermuda-masc-linho-off_white,1,89.9,Bermuda Linho,off white,P,Bermuda
+207,31,04/10/2020,08/10/2020,10/10/2020,concluido,organic,,nf308/2020,Boleto,89.9,bermuda-masc-linho-off_white,1,89.9,Bermuda Linho,off white,G,Bermuda
+263,25,16/11/2020,20/11/2020,22/11/2020,concluido,instagram,,nf376/2020,Boleto,139.8,bermuda-masc-linho-off_white,2,69.9,Bermuda Linho,off white,M,Bermuda
+266,189,22/11/2020,22/11/2020,24/11/2020,concluido,adwords,,nf379/2020,Cartão de crédito,69.9,bermuda-masc-linho-off_white,1,69.9,Bermuda Linho,off white,P,Bermuda
+268,263,22/11/2020,26/11/2020,30/11/2020,concluido,instagram,,nf381/2020,Boleto,69.9,bermuda-masc-linho-off_white,1,69.9,Bermuda Linho,off white,M,Bermuda
+271,130,22/11/2020,26/11/2020,28/11/2020,concluido,organic,,nf384/2020,Boleto,69.9,bermuda-masc-linho-off_white,1,69.9,Bermuda Linho,off white,G,Bermuda
+288,38,25/11/2020,29/11/2020,01/12/2020,concluido,organic,,nf401/2020,Boleto,69.9,bermuda-masc-linho-off_white,1,69.9,Bermuda Linho,off white,G,Bermuda
+292,123,25/11/2020,25/11/2020,27/11/2020,concluido,adwords,,nf405/2020,Cartão de crédito,69.9,bermuda-masc-linho-off_white,1,69.9,Bermuda Linho,off white,M,Bermuda
+296,121,25/11/2020,25/11/2020,27/11/2020,concluido,instagram,,nf409/2020,Cartão de crédito,139.8,bermuda-masc-linho-off_white,2,69.9,Bermuda Linho,off white,P,Bermuda
+297,124,25/11/2020,29/11/2020,01/12/2020,concluido,organic,,nf410/2020,Boleto,69.9,bermuda-masc-linho-off_white,1,69.9,Bermuda Linho,off white,G,Bermuda
+299,158,25/11/2020,29/11/2020,01/12/2020,concluido,instagram,,nf412/2020,Boleto,69.9,bermuda-masc-linho-off_white,1,69.9,Bermuda Linho,off white,M,Bermuda
+301,265,30/11/2020,04/12/2020,07/12/2020,concluido,instagram,,nf414/2020,Boleto,69.9,bermuda-masc-linho-off_white,1,69.9,Bermuda Linho,off white,M,Bermuda
+307,137,30/11/2020,30/11/2020,02/12/2020,concluido,organic,,nf420/2020,Cartão de crédito,69.9,bermuda-masc-linho-off_white,1,69.9,Bermuda Linho,off white,G,Bermuda
+328,209,08/12/2020,08/12/2020,10/12/2020,concluido,instagram,,nf446/2020,Cartão de crédito,69.9,bermuda-masc-linho-off_white,1,69.9,Bermuda Linho,off white,G,Bermuda
+376,73,31/01/2021,04/02/2021,06/02/2021,concluido,adwords,,nf539/2021,Boleto,99.9,bermuda-masc-linho-off_white,1,99.9,Bermuda Linho,off white,G,Bermuda
+377,149,31/01/2021,04/02/2021,06/02/2021,concluido,adwords,,nf540/2021,Boleto,99.9,bermuda-masc-linho-off_white,1,99.9,Bermuda Linho,off white,M,Bermuda
+386,225,11/02/2021,15/02/2021,19/02/2021,concluido,outros,,nf565/2021,Boleto,99.9,bermuda-masc-linho-off_white,1,99.9,Bermuda Linho,off white,G,Bermuda
+387,19,11/02/2021,15/02/2021,17/02/2021,concluido,adwords,,nf566/2021,Boleto,99.9,bermuda-masc-linho-off_white,1,99.9,Bermuda Linho,off white,M,Bermuda
+173,263,24/08/2020,24/08/2020,26/08/2020,concluido,instagram,,nf269/2020,Cartão de crédito,99.9,bermuda-masc-linho-off_white,1,99.9,Bermuda Linho,off white,M,Bermuda
+198,74,22/09/2020,22/09/2020,24/09/2020,concluido,organic,,nf299/2020,Pag Seguro,99.9,bermuda-masc-linho-off_white,1,99.9,Bermuda Linho,off white,M,Bermuda
+232,245,26/10/2020,30/10/2020,01/11/2020,concluido,organic,,nf340/2020,Boleto,99.9,bermuda-masc-linho-off_white,1,99.9,Bermuda Linho,off white,M,Bermuda
+69,128,13/05/2020,17/05/2020,18/05/2020,concluido,outros,,nf114/2020,Boleto,89.9,bermuda-masc-linho-preta,1,89.9,Bermuda Linho,preta,M,Bermuda
+76,139,15/05/2020,19/05/2020,21/05/2020,concluido,adwords,,nf128/2020,Boleto,89.9,bermuda-masc-linho-preta,1,89.9,Bermuda Linho,preta,G,Bermuda
+133,71,21/07/2020,25/07/2020,27/07/2020,concluido,instagram,,nf212/2020,Boleto,89.9,bermuda-masc-linho-preta,1,89.9,Bermuda Linho,preta,P,Bermuda
+133,71,21/07/2020,25/07/2020,27/07/2020,concluido,instagram,,nf212/2020,Boleto,89.9,bermuda-masc-linho-preta,1,89.9,Bermuda Linho,preta,G,Bermuda
+139,43,26/07/2020,26/07/2020,28/07/2020,concluido,organic,,nf223/2020,Cartão de crédito,89.9,bermuda-masc-linho-preta,1,89.9,Bermuda Linho,preta,M,Bermuda
+146,206,03/08/2020,07/08/2020,11/08/2020,concluido,outros,,nf230/2020,Boleto,89.9,bermuda-masc-linho-preta,1,89.9,Bermuda Linho,preta,M,Bermuda
+154,69,07/08/2020,11/08/2020,13/08/2020,concluido,instagram,,nf238/2020,Boleto,89.9,bermuda-masc-linho-preta,1,89.9,Bermuda Linho,preta,P,Bermuda
+379,42,05/02/2021,09/02/2021,13/02/2021,concluido,organic,,nf547/2021,Boleto,39.9,bermuda-masc-praia-listrada,1,39.9,Bermuda Praia,listrada,G,Bermuda
+391,62,11/02/2021,11/02/2021,13/02/2021,concluido,adwords,,nf570/2021,Cartão de crédito,39.9,bermuda-masc-praia-listrada,1,39.9,Bermuda Praia,listrada,M,Bermuda
+13,5,23/02/2020,24/02/2020,26/02/2020,concluido,adwords,,nf18/2020,Cartão de crédito,159.8,bermuda-masc-preta,2,79.9,Bermuda Preta,preta,G,Bermuda
+59,199,03/05/2020,07/05/2020,09/05/2020,concluido,adwords,,nf98/2020,Boleto,79.9,bermuda-masc-preta,1,79.9,Bermuda Preta,preta,M,Bermuda
+71,226,13/05/2020,17/05/2020,19/05/2020,concluido,outros,,nf116/2020,Boleto,79.9,bermuda-masc-preta,1,79.9,Bermuda Preta,preta,P,Bermuda
+99,215,08/06/2020,12/06/2020,15/06/2020,concluido,outros,,nf161/2020,Boleto,79.9,bermuda-masc-preta,1,79.9,Bermuda Preta,preta,M,Bermuda
+112,182,25/06/2020,29/06/2020,03/07/2020,concluido,adwords,,nf185/2020,Boleto,79.9,bermuda-masc-preta,1,79.9,Bermuda Preta,preta,M,Bermuda
+119,3,10/07/2020,14/07/2020,16/07/2020,concluido,adwords,,nf195/2020,Boleto,79.9,bermuda-masc-preta,1,79.9,Bermuda Preta,preta,P,Bermuda
+302,44,30/11/2020,04/12/2020,08/12/2020,concluido,instagram,,nf415/2020,Boleto,79.8,bermuda-masc-preta,2,39.9,Bermuda Preta,preta,M,Bermuda
+311,206,01/12/2020,05/12/2020,07/12/2020,concluido,adwords,,nf429/2020,Boleto,39.9,bermuda-masc-preta,1,39.9,Bermuda Preta,preta,G,Bermuda
+319,123,02/12/2020,06/12/2020,08/12/2020,concluido,outros,,nf437/2020,Boleto,39.9,bermuda-masc-preta,1,39.9,Bermuda Preta,preta,G,Bermuda
+18,197,09/03/2020,11/03/2020,13/03/2020,concluido,adwords,,nf23/2020,Boleto,79.9,bermuda-masc-preta-lisa,1,79.9,Bermuda Preta,preta,P,Bermuda
+21,26,09/03/2020,10/03/2020,12/03/2020,concluido,outros,,nf26/2020,Cartão de crédito,159.8,bermuda-masc-preta-lisa,2,79.9,Bermuda Preta,preta,P,Bermuda
+27,39,24/03/2020,26/03/2020,28/03/2020,concluido,instagram,,nf35/2020,Boleto,159.8,bermuda-masc-preta-lisa,2,79.9,Bermuda Preta,preta,P,Bermuda
+28,3,24/03/2020,26/03/2020,28/03/2020,concluido,adwords,,nf36/2020,Boleto,79.9,bermuda-masc-preta-lisa,1,79.9,Bermuda Preta,preta,P,Bermuda
+33,258,31/03/2020,02/04/2020,04/04/2020,concluido,organic,,nf42/2020,Pag Seguro,79.9,bermuda-masc-preta-lisa,1,79.9,Bermuda Preta,preta,P,Bermuda
+54,182,27/04/2020,29/04/2020,01/05/2020,concluido,adwords,,nf93/2020,Boleto,79.9,bermuda-masc-preta-lisa,1,79.9,Bermuda Preta,preta,M,Bermuda
+65,14,08/05/2020,12/05/2020,16/05/2020,concluido,instagram,,nf110/2020,Boleto,79.9,bermuda-masc-preta-lisa,1,79.9,Bermuda Preta,preta,G,Bermuda
+106,229,18/06/2020,22/06/2020,24/06/2020,concluido,outros,,nf179/2020,Boleto,79.9,bermuda-masc-preta-lisa,1,79.9,Bermuda Preta,preta,GG,Bermuda
+118,252,10/07/2020,14/07/2020,16/07/2020,concluido,organic,,nf194/2020,Boleto,79.9,bermuda-masc-preta-lisa,1,79.9,Bermuda Preta,preta,P,Bermuda
+128,232,18/07/2020,22/07/2020,26/07/2020,concluido,instagram,,nf204/2020,Boleto,79.9,bermuda-masc-preta-lisa,1,79.9,Bermuda Preta,preta,M,Bermuda
+138,269,26/07/2020,30/07/2020,01/08/2020,concluido,instagram,,nf222/2020,Boleto,79.9,bermuda-masc-preta-lisa,1,79.9,Bermuda Preta,preta,G,Bermuda
+203,194,04/10/2020,08/10/2020,12/10/2020,concluido,organic,,nf304/2020,Boleto,79.9,bermuda-masc-preta-lisa,1,79.9,Bermuda Preta,preta,M,Bermuda
+223,68,21/10/2020,21/10/2020,22/10/2020,concluido,organic,,nf331/2020,Pag Seguro,159.8,bermuda-masc-preta-lisa,2,79.9,Bermuda Preta,preta,M,Bermuda
+226,161,21/10/2020,21/10/2020,23/10/2020,concluido,adwords,,nf334/2020,Cartão de crédito,159.8,bermuda-masc-preta-lisa,2,79.9,Bermuda Preta,preta,P,Bermuda
+236,24,02/11/2020,06/11/2020,08/11/2020,concluido,outros,,nf344/2020,Boleto,69.9,bermuda-masc-preta-lisa,1,69.9,Bermuda Preta,preta,P,Bermuda
+240,17,05/11/2020,09/11/2020,11/11/2020,concluido,instagram,,nf348/2020,Boleto,69.9,bermuda-masc-preta-lisa,1,69.9,Bermuda Preta,preta,P,Bermuda
+259,139,14/11/2020,18/11/2020,20/11/2020,concluido,instagram,,nf372/2020,Boleto,69.9,bermuda-masc-preta-lisa,1,69.9,Bermuda Preta,preta,P,Bermuda
+261,164,16/11/2020,16/11/2020,19/11/2020,concluido,instagram,,nf374/2020,Cartão de crédito,69.9,bermuda-masc-preta-lisa,1,69.9,Bermuda Preta,preta,P,Bermuda
+278,8,25/11/2020,29/11/2020,03/12/2020,concluido,instagram,,nf391/2020,Boleto,69.9,bermuda-masc-preta-lisa,1,69.9,Bermuda Preta,preta,M,Bermuda
+279,81,25/11/2020,29/11/2020,03/12/2020,concluido,organic,,nf392/2020,Boleto,139.8,bermuda-masc-preta-lisa,2,69.9,Bermuda Preta,preta,G,Bermuda
+284,194,25/11/2020,29/11/2020,01/12/2020,concluido,organic,,nf397/2020,Boleto,139.8,bermuda-masc-preta-lisa,2,69.9,Bermuda Preta,preta,P,Bermuda
+295,62,25/11/2020,29/11/2020,01/12/2020,concluido,instagram,,nf408/2020,Boleto,39.9,bermuda-masc-preta-lisa,1,39.9,Bermuda Preta,preta,G,Bermuda
+295,62,25/11/2020,29/11/2020,01/12/2020,concluido,instagram,,nf408/2020,Boleto,39.9,bermuda-masc-preta-lisa,1,39.9,Bermuda Preta,preta,M,Bermuda
+298,207,25/11/2020,29/11/2020,01/12/2020,concluido,adwords,,nf411/2020,Boleto,79.8,bermuda-masc-preta-lisa,2,39.9,Bermuda Preta,preta,M,Bermuda
+302,44,30/11/2020,04/12/2020,08/12/2020,concluido,instagram,,nf415/2020,Boleto,79.8,bermuda-masc-preta-lisa,2,39.9,Bermuda Preta,preta,P,Bermuda
+308,215,30/11/2020,04/12/2020,06/12/2020,concluido,organic,,nf421/2020,Boleto,79.8,bermuda-masc-preta-lisa,2,39.9,Bermuda Preta,preta,M,Bermuda
+310,64,01/12/2020,01/12/2020,02/12/2020,concluido,instagram,,nf423/2020,Cartão de crédito,39.9,bermuda-masc-preta-lisa,1,39.9,Bermuda Preta,preta,M,Bermuda
+318,122,02/12/2020,06/12/2020,08/12/2020,concluido,instagram,,nf436/2020,Boleto,39.9,bermuda-masc-preta-lisa,1,39.9,Bermuda Preta,preta,G,Bermuda
+330,15,08/12/2020,12/12/2020,14/12/2020,concluido,organic,,nf450/2020,Boleto,79.8,bermuda-masc-preta-lisa,2,39.9,Bermuda Preta,preta,M,Bermuda
+334,270,19/12/2020,23/12/2020,24/12/2020,concluido,outros,,nf458/2020,Boleto,39.9,bermuda-masc-preta-lisa,1,39.9,Bermuda Preta,preta,P,Bermuda
+340,65,30/12/2020,03/01/2021,05/01/2021,concluido,organic,,nf464/2020,Boleto,69.9,bermuda-masc-preta-lisa,1,69.9,Bermuda Preta,preta,P,Bermuda
+341,157,30/12/2020,03/01/2021,05/01/2021,concluido,organic,,nf465/2020,Boleto,69.9,bermuda-masc-preta-lisa,1,69.9,Bermuda Preta,preta,P,Bermuda
+351,197,15/01/2021,19/01/2021,21/01/2021,concluido,organic,,nf484/2021,Boleto,69.9,bermuda-masc-preta-lisa,1,69.9,Bermuda Preta,preta,G,Bermuda
+352,80,16/01/2021,16/01/2021,19/01/2021,concluido,instagram,,nf485/2021,Cartão de crédito,69.9,bermuda-masc-preta-lisa,1,69.9,Bermuda Preta,preta,GG,Bermuda
+355,218,19/01/2021,19/01/2021,23/01/2021,concluido,instagram,,nf502/2021,Cartão de crédito,139.8,bermuda-masc-preta-lisa,2,69.9,Bermuda Preta,preta,M,Bermuda
+184,121,02/09/2020,06/09/2020,08/09/2020,concluido,outros,,nf285/2020,Boleto,79.9,bermuda-masc-preta-lisa,1,79.9,Bermuda Preta,preta,G,Bermuda
+199,116,01/10/2020,05/10/2020,07/10/2020,concluido,adwords,,nf300/2020,Boleto,79.9,bermuda-masc-preta-lisa,1,79.9,Bermuda Preta,preta,P,Bermuda
+224,225,21/10/2020,25/10/2020,27/10/2020,concluido,outros,,nf332/2020,Boleto,159.8,bermuda-masc-preta-lisa,2,79.9,Bermuda Preta,preta,M,Bermuda
+225,5,21/10/2020,25/10/2020,27/10/2020,concluido,outros,,nf333/2020,Boleto,79.9,bermuda-masc-preta-lisa,1,79.9,Bermuda Preta,preta,G,Bermuda
+113,189,25/06/2020,25/06/2020,27/06/2020,concluido,instagram,,nf186/2020,Cartão de crédito,39.9,bermuda-masc-preta-lisa,1,39.9,Bermuda Preta,preta,G,Bermuda
+171,78,22/08/2020,22/08/2020,24/08/2020,concluido,instagram,,nf263/2020,Cartão de crédito,79.8,bermuda-masc-preta-lisa,2,39.9,Bermuda Preta,preta,G,Bermuda
+9,182,02/02/2020,03/02/2020,05/02/2020,concluido,instagram,,nf14/2020,Cartão de crédito,119.9,calca-masc-branca,1,119.9,Calça Branca,branca,P,Calça
+9,182,02/02/2020,03/02/2020,05/02/2020,concluido,instagram,,nf14/2020,Cartão de crédito,119.9,calca-masc-branca,1,119.9,Calça Branca,branca,G,Calça
+31,40,25/03/2020,27/03/2020,31/03/2020,concluido,organic,,nf40/2020,Pag Seguro,119.9,calca-masc-branca,1,119.9,Calça Branca,branca,P,Calça
+36,45,01/04/2020,03/04/2020,05/04/2020,concluido,organic,,nf45/2020,Boleto,119.9,calca-masc-branca,1,119.9,Calça Branca,branca,M,Calça
+50,43,23/04/2020,25/04/2020,27/04/2020,concluido,outros,,nf71/2020,Boleto,119.9,calca-masc-branca,1,119.9,Calça Branca,branca,G,Calça
+177,103,29/08/2020,02/09/2020,06/09/2020,concluido,adwords,,nf273/2020,Boleto,119.9,calca-masc-branca,1,119.9,Calça Branca,branca,G,Calça
+200,274,01/10/2020,01/10/2020,03/10/2020,concluido,organic,,nf301/2020,Pag Seguro,119.9,calca-masc-branca,1,119.9,Calça Branca,branca,M,Calça
+254,21,14/11/2020,18/11/2020,19/11/2020,concluido,instagram,,nf362/2020,Boleto,59.9,calca-masc-branca,1,59.9,Calça Branca,branca,M,Calça
+273,129,25/11/2020,29/11/2020,30/11/2020,concluido,outros,,nf386/2020,Boleto,59.9,calca-masc-branca,1,59.9,Calça Branca,branca,M,Calça
+276,62,25/11/2020,29/11/2020,03/12/2020,concluido,outros,,nf389/2020,Boleto,119.8,calca-masc-branca,2,59.9,Calça Branca,branca,M,Calça
+282,250,25/11/2020,29/11/2020,01/12/2020,concluido,outros,,nf395/2020,Boleto,59.9,calca-masc-branca,1,59.9,Calça Branca,branca,M,Calça
+285,70,25/11/2020,29/11/2020,01/12/2020,concluido,adwords,,nf398/2020,Boleto,59.9,calca-masc-branca,1,59.9,Calça Branca,branca,M,Calça
+290,152,25/11/2020,29/11/2020,01/12/2020,concluido,outros,,nf403/2020,Boleto,59.9,calca-masc-branca,1,59.9,Calça Branca,branca,M,Calça
+299,158,25/11/2020,29/11/2020,01/12/2020,concluido,instagram,,nf412/2020,Boleto,59.9,calca-masc-branca,1,59.9,Calça Branca,branca,G,Calça
+303,171,30/11/2020,04/12/2020,06/12/2020,concluido,instagram,,nf416/2020,Boleto,59.9,calca-masc-branca,1,59.9,Calça Branca,branca,P,Calça
+314,38,02/12/2020,06/12/2020,09/12/2020,concluido,adwords,,nf432/2020,Boleto,59.9,calca-masc-branca,1,59.9,Calça Branca,branca,G,Calça
+95,254,06/06/2020,10/06/2020,12/06/2020,concluido,outros,,nf157/2020,Boleto,179.8,calca-masc-branca,2,89.9,Calça Branca,branca,G,Calça
+115,111,09/07/2020,13/07/2020,14/07/2020,concluido,instagram,,nf188/2020,Boleto,89.9,calca-masc-branca,1,89.9,Calça Branca,branca,P,Calça
+142,61,31/07/2020,31/07/2020,02/08/2020,concluido,organic,,nf226/2020,Pag Seguro,89.9,calca-masc-branca,1,89.9,Calça Branca,branca,M,Calça
+222,130,13/10/2020,13/10/2020,15/10/2020,concluido,organic,,nf326/2020,Pag Seguro,89.9,calca-masc-branca,1,89.9,Calça Branca,branca,M,Calça
+105,215,11/06/2020,15/06/2020,19/06/2020,concluido,instagram,,nf174/2020,Boleto,89.9,calca-masc-branca,1,89.9,Calça Branca,branca,M,Calça
+121,193,13/07/2020,13/07/2020,17/07/2020,concluido,adwords,,nf197/2020,Cartão de crédito,89.9,calca-masc-branca,1,89.9,Calça Branca,branca,G,Calça
+183,9,02/09/2020,02/09/2020,04/09/2020,concluido,organic,,nf284/2020,Pag Seguro,89.9,calca-masc-branca,1,89.9,Calça Branca,branca,G,Calça
+349,116,13/01/2021,17/01/2021,19/01/2021,concluido,adwords,,nf478/2021,Boleto,179.9,calca-masc-jeans,1,179.9,Calca Jeans,jeans,G,Calça
+354,149,19/01/2021,19/01/2021,20/01/2021,concluido,organic,,nf501/2021,Pag Seguro,179.9,calca-masc-jeans,1,179.9,Calca Jeans,jeans,P,Calça
+359,137,20/01/2021,24/01/2021,26/01/2021,concluido,adwords,,nf506/2021,Boleto,179.9,calca-masc-jeans,1,179.9,Calca Jeans,jeans,M,Calça
+369,169,29/01/2021,29/01/2021,31/01/2021,concluido,adwords,,nf532/2021,Cartão de crédito,179.9,calca-masc-jeans,1,179.9,Calca Jeans,jeans,M,Calça
+382,185,08/02/2021,12/02/2021,14/02/2021,concluido,instagram,,nf561/2021,Boleto,179.9,calca-masc-jeans,1,179.9,Calca Jeans,jeans,P,Calça
+384,7,09/02/2021,09/02/2021,12/02/2021,concluido,organic,,nf563/2021,Pag Seguro,179.9,calca-masc-jeans,1,179.9,Calca Jeans,jeans,P,Calça
+389,76,11/02/2021,15/02/2021,17/02/2021,concluido,outros,,nf568/2021,Boleto,179.9,calca-masc-jeans,1,179.9,Calca Jeans,jeans,M,Calça
+19,79,09/03/2020,10/03/2020,13/03/2020,concluido,organic,,nf24/2020,Boleto,89.9,calca-masc-marrom,1,89.9,Calça Lisa,marrom,G,Calça
+34,202,31/03/2020,02/04/2020,04/04/2020,concluido,instagram,,nf43/2020,Cartão de crédito,89.9,calca-masc-marrom,1,89.9,Calça Lisa,marrom,M,Calça
+41,89,08/04/2020,10/04/2020,12/04/2020,concluido,outros,,nf62/2020,Boleto,119.9,calca-masc-marrom,1,119.9,Calça Lisa,marrom,M,Calça
+52,210,24/04/2020,26/04/2020,27/04/2020,concluido,organic,,nf73/2020,Pag Seguro,89.9,calca-masc-marrom,1,89.9,Calça Lisa,marrom,P,Calça
+56,191,29/04/2020,01/05/2020,05/05/2020,concluido,instagram,,nf95/2020,Boleto,89.9,calca-masc-marrom,1,89.9,Calça Lisa,marrom,PP,Calça
+62,270,07/05/2020,11/05/2020,13/05/2020,concluido,instagram,,nf107/2020,Boleto,119.9,calca-masc-marrom,1,119.9,Calça Lisa,marrom,M,Calça
+73,179,15/05/2020,15/05/2020,18/05/2020,concluido,instagram,,nf118/2020,Cartão de crédito,119.9,calca-masc-marrom,1,119.9,Calça Lisa,marrom,G,Calça
+80,258,19/05/2020,23/05/2020,26/05/2020,concluido,outros,,nf132/2020,Boleto,119.9,calca-masc-marrom,1,119.9,Calça Lisa,marrom,M,Calça
+81,14,19/05/2020,23/05/2020,27/05/2020,concluido,organic,,nf133/2020,Boleto,119.9,calca-masc-marrom,1,119.9,Calça Lisa,marrom,M,Calça
+84,186,24/05/2020,28/05/2020,01/06/2020,concluido,organic,,nf141/2020,Boleto,89.9,calca-masc-marrom,1,89.9,Calça Lisa,marrom,M,Calça
+86,139,26/05/2020,26/05/2020,29/05/2020,concluido,instagram,,nf145/2020,Cartão de crédito,89.9,calca-masc-marrom,1,89.9,Calça Lisa,marrom,PP,Calça
+89,169,26/05/2020,30/05/2020,01/06/2020,concluido,instagram,,nf151/2020,Boleto,119.9,calca-masc-marrom,1,119.9,Calça Lisa,marrom,M,Calça
+117,124,09/07/2020,09/07/2020,11/07/2020,concluido,instagram,,nf190/2020,Cartão de crédito,89.9,calca-masc-marrom,1,89.9,Calça Lisa,marrom,PP,Calça
+134,241,22/07/2020,26/07/2020,29/07/2020,concluido,instagram,,nf213/2020,Boleto,89.9,calca-masc-marrom,1,89.9,Calça Lisa,marrom,G,Calça
+138,269,26/07/2020,30/07/2020,01/08/2020,concluido,instagram,,nf222/2020,Boleto,89.9,calca-masc-marrom,1,89.9,Calça Lisa,marrom,PP,Calça
+167,30,21/08/2020,25/08/2020,27/08/2020,concluido,instagram,,nf259/2020,Boleto,99.9,calca-masc-marrom,1,99.9,Calça Lisa,marrom,M,Calça
+176,12,29/08/2020,02/09/2020,05/09/2020,concluido,organic,,nf272/2020,Boleto,99.9,calca-masc-marrom,1,99.9,Calça Lisa,marrom,M,Calça
+180,198,02/09/2020,06/09/2020,08/09/2020,concluido,organic,,nf281/2020,Boleto,89.9,calca-masc-marrom,1,89.9,Calça Lisa,marrom,PP,Calça
+187,145,08/09/2020,12/09/2020,14/09/2020,concluido,instagram,,nf288/2020,Boleto,89.9,calca-masc-marrom,1,89.9,Calça Lisa,marrom,M,Calça
+196,210,22/09/2020,26/09/2020,29/09/2020,concluido,adwords,,nf297/2020,Boleto,99.9,calca-masc-marrom,1,99.9,Calça Lisa,marrom,M,Calça
+202,102,04/10/2020,08/10/2020,09/10/2020,concluido,organic,,nf303/2020,Boleto,99.9,calca-masc-marrom,1,99.9,Calça Lisa,marrom,M,Calça
+206,83,4/10/2020,08/10/2020,10/10/2020,concluido,organic,,nf307/2020,Boleto,89.9,calca-masc-marrom,1,89.9,Calça Lisa,marrom,M,Calça
+215,203,12/10/2020,12/10/2020,16/10/2020,concluido,instagram,,nf316/2020,Cartão de crédito,119.9,calca-masc-marrom,1,119.9,Calça Lisa,marrom,M,Calça
+229,161,23/10/2020,27/10/2020,29/10/2020,concluido,organic,,nf337/2020,Boleto,89.9,calca-masc-marrom,1,89.9,Calça Lisa,marrom,M,Calça
+233,100,01/11/2020,05/11/2020,07/11/2020,concluido,adwords,,nf341/2020,Boleto,89.9,calca-masc-marrom,1,89.9,Calça Lisa,marrom,G,Calça
+235,9,01/11/2020,01/11/2020,03/11/2020,concluido,instagram,,nf343/2020,Cartão de crédito,99.9,calca-masc-marrom,1,99.9,Calça Lisa,marrom,M,Calça
+247,4,09/11/2020,09/11/2020,11/11/2020,concluido,instagram,,nf355/2020,Cartão de crédito,69.9,calca-masc-marrom,1,69.9,Calça Lisa,marrom,M,Calça
+249,215,14/11/2020,14/11/2020,16/11/2020,concluido,organic,,nf357/2020,Pag Seguro,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,M,Calça
+255,8,14/11/2020,18/11/2020,20/11/2020,concluido,adwords,,nf363/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,M,Calça
+270,66,22/11/2020,26/11/2020,28/11/2020,concluido,instagram,,nf383/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,M,Calça
+271,130,22/11/2020,26/11/2020,28/11/2020,concluido,organic,,nf384/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,M,Calça
+280,64,25/11/2020,29/11/2020,03/12/2020,concluido,instagram,,nf393/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,P,Calça
+280,64,25/11/2020,29/11/2020,03/12/2020,concluido,instagram,,nf393/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,M,Calça
+294,20,25/11/2020,29/11/2020,01/12/2020,concluido,adwords,,nf407/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,M,Calça
+294,20,25/11/2020,29/11/2020,01/12/2020,concluido,adwords,,nf407/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,P,Calça
+299,158,25/11/2020,29/11/2020,01/12/2020,concluido,instagram,,nf412/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,P,Calça
+304,105,30/11/2020,04/12/2020,06/12/2020,concluido,organic,,nf417/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,M,Calça
+316,119,02/12/2020,06/12/2020,10/12/2020,concluido,instagram,,nf434/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,M,Calça
+322,76,05/12/2020,09/12/2020,12/12/2020,concluido,organic,,nf440/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,M,Calça
+329,153,08/12/2020,12/12/2020,14/12/2020,concluido,instagram,,nf449/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,M,Calça
+332,182,17/12/2020,21/12/2020,23/12/2020,concluido,organic,,nf456/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,P,Calça
+334,270,19/12/2020,23/12/2020,24/12/2020,concluido,outros,,nf458/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,G,Calça
+338,199,21/12/2020,25/12/2020,27/12/2020,concluido,instagram,,nf462/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,M,Calça
+339,272,29/12/2020,02/01/2021,04/01/2021,concluido,adwords,,nf463/2020,Boleto,139.9,calca-masc-marrom,1,139.9,Calça Lisa,marrom,M,Calça
+354,149,19/01/2021,19/01/2021,20/01/2021,concluido,organic,,nf501/2021,Pag Seguro,139.9,calca-masc-marrom,1,139.9,Calça Lisa,marrom,M,Calça
+374,224,31/01/2021,04/02/2021,05/02/2021,concluido,instagram,,nf537/2021,Boleto,139.9,calca-masc-marrom,1,139.9,Calça Lisa,marrom,G,Calça
+395,99,21/02/2021,25/02/2021,01/03/2021,concluido,instagram,,nf574/2021,Boleto,139.9,calca-masc-marrom,1,139.9,Calça Lisa,marrom,G,Calça
+116,158,09/07/2020,13/07/2020,15/07/2020,concluido,instagram,,nf189/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,P,Calça
+119,3,10/07/2020,14/07/2020,16/07/2020,concluido,adwords,,nf195/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,M,Calça
+190,155,13/09/2020,13/09/2020,15/09/2020,concluido,instagram,,nf291/2020,Cartão de crédito,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,M,Calça
+206,83,4/10/2020,08/10/2020,10/10/2020,concluido,organic,,nf307/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,G,Calça
+225,5,21/10/2020,25/10/2020,27/10/2020,concluido,outros,,nf333/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,P,Calça
+25,247,16/03/2020,18/03/2020,22/03/2020,concluido,instagram,,nf33/2020,Cartão de crédito,239.8,calca-masc-preta,2,119.9,Calça Preta,preta,P,Calça
+26,154,16/03/2020,18/03/2020,20/03/2020,concluido,adwords,,nf34/2020,Cartão de crédito,119.9,calca-masc-preta,1,119.9,Calça Preta,preta,P,Calça
+26,154,16/03/2020,18/03/2020,20/03/2020,concluido,adwords,,nf34/2020,Cartão de crédito,119.9,calca-masc-preta,1,119.9,Calça Preta,preta,M,Calça
+42,150,16/04/2020,18/04/2020,20/04/2020,concluido,instagram,,nf63/2020,Boleto,119.9,calca-masc-preta,1,119.9,Calça Preta,preta,M,Calça
+44,235,20/04/2020,22/04/2020,24/04/2020,concluido,adwords,,nf65/2020,Boleto,119.9,calca-masc-preta,1,119.9,Calça Preta,preta,M,Calça
+48,159,21/04/2020,23/04/2020,25/04/2020,concluido,organic,,nf69/2020,Boleto,119.9,calca-masc-preta,1,119.9,Calça Preta,preta,M,Calça
+60,180,03/05/2020,07/05/2020,09/05/2020,concluido,outros,,nf99/2020,Boleto,119.9,calca-masc-preta,1,119.9,Calça Preta,preta,G,Calça
+64,189,08/05/2020,08/05/2020,12/05/2020,concluido,instagram,,nf109/2020,Cartão de crédito,119.9,calca-masc-preta,1,119.9,Calça Preta,preta,G,Calça
+69,128,13/05/2020,17/05/2020,18/05/2020,concluido,outros,,nf114/2020,Boleto,119.9,calca-masc-preta,1,119.9,Calça Preta,preta,G,Calça
+74,34,15/05/2020,19/05/2020,21/05/2020,concluido,organic,,nf126/2020,Boleto,119.9,calca-masc-preta,1,119.9,Calça Preta,preta,G,Calça
+78,225,16/05/2020,20/05/2020,22/05/2020,concluido,outros,,nf130/2020,Boleto,119.9,calca-masc-preta,1,119.9,Calça Preta,preta,G,Calça
+90,116,04/06/2020,08/06/2020,11/06/2020,concluido,organic,,nf152/2020,Boleto,119.9,calca-masc-preta,1,119.9,Calça Lisa,marrom,M,Calça
+104,144,11/06/2020,15/06/2020,16/06/2020,concluido,organic,,nf173/2020,Boleto,119.9,calca-masc-preta,1,119.9,Calça Preta,preta,M,Calça
+152,251,04/08/2020,04/08/2020,06/08/2020,concluido,organic,,nf236/2020,Pag Seguro,119.9,calca-masc-preta,1,119.9,Calça Preta,preta,M,Calça
+157,117,12/08/2020,16/08/2020,18/08/2020,concluido,instagram,,nf241/2020,Boleto,119.9,calca-masc-preta,1,119.9,Calça Preta,preta,M,Calça
+162,7,19/08/2020,23/08/2020,25/08/2020,concluido,instagram,,nf252/2020,Boleto,119.9,calca-masc-preta,1,119.9,Calça Preta,preta,M,Calça
+185,2,02/09/2020,06/09/2020,08/09/2020,concluido,instagram,,nf286/2020,Boleto,119.9,calca-masc-preta,1,119.9,Calça Preta,preta,M,Calça
+237,202,02/11/2020,06/11/2020,10/11/2020,concluido,adwords,,nf345/2020,Boleto,79.9,calca-masc-preta,1,79.9,Calça Preta,preta,M,Calça
+252,102,14/11/2020,18/11/2020,19/11/2020,concluido,organic,,nf360/2020,Boleto,79.9,calca-masc-preta,1,79.9,Calça Preta,preta,M,Calça
+262,218,16/11/2020,20/11/2020,21/11/2020,concluido,instagram,,nf375/2020,Boleto,79.9,calca-masc-preta,1,79.9,Calça Preta,preta,M,Calça
+264,26,16/11/2020,20/11/2020,23/11/2020,concluido,adwords,,nf377/2020,Boleto,79.9,calca-masc-preta,1,79.9,Calça Preta,preta,M,Calça
+265,217,16/11/2020,20/11/2020,22/11/2020,concluido,outros,,nf378/2020,Boleto,79.9,calca-masc-preta,1,79.9,Calça Preta,preta,M,Calça
+266,189,22/11/2020,22/11/2020,24/11/2020,concluido,adwords,,nf379/2020,Cartão de crédito,79.9,calca-masc-preta,1,79.9,Calça Preta,preta,M,Calça
+269,138,22/11/2020,26/11/2020,30/11/2020,concluido,instagram,,nf382/2020,Boleto,79.9,calca-masc-preta,1,79.9,Calça Preta,preta,M,Calça
+283,222,25/11/2020,29/11/2020,01/12/2020,concluido,instagram,,nf396/2020,Boleto,79.9,calca-masc-preta,1,79.9,Calça Preta,preta,M,Calça
+93,132,06/06/2020,10/06/2020,11/06/2020,concluido,instagram,,nf155/2020,Boleto,129.9,camisa-masc-azul-escuro,1,129.9,Camisa Social,azul,M,Camisa
+127,6,18/07/2020,18/07/2020,22/07/2020,concluido,organic,,nf203/2020,Pag Seguro,129.9,camisa-masc-azul-escuro,1,129.9,Camisa Social,azul,GG,Camisa
+159,262,16/08/2020,20/08/2020,23/08/2020,concluido,adwords,,nf243/2020,Boleto,129.9,camisa-masc-azul-escuro,1,129.9,Camisa Social,azul,M,Camisa
+205,17,04/10/2020,08/10/2020,10/10/2020,concluido,instagram,,nf306/2020,Boleto,129.9,camisa-masc-azul-escuro,1,129.9,Camisa Social,azul,M,Camisa
+156,122,12/08/2020,12/08/2020,14/08/2020,concluido,adwords,,nf240/2020,Cartão de crédito,259.8,camisa-masc-azul-escuro,2,129.9,Camisa Social,azul,M,Camisa
+217,136,12/10/2020,12/10/2020,14/10/2020,concluido,instagram,,nf321/2020,Cartão de crédito,129.9,camisa-masc-azul-escuro,1,129.9,Camisa Social,azul,M,Camisa
+22,233,12/03/2020,14/03/2020,16/03/2020,concluido,instagram,,nf27/2020,Boleto,99.9,camisa-masc-branca,1,99.9,Camisa Social,branca,G,Camisa
+24,115,16/03/2020,18/03/2020,20/03/2020,concluido,instagram,,nf32/2020,Boleto,99.9,camisa-masc-branca,1,99.9,Camisa Social,branca,G,Camisa
+41,89,08/04/2020,10/04/2020,12/04/2020,concluido,outros,,nf62/2020,Boleto,99.9,camisa-masc-branca,1,99.9,Camisa Social,branca,G,Camisa
+68,142,12/05/2020,16/05/2020,18/05/2020,concluido,instagram,,nf113/2020,Boleto,99.9,camisa-masc-branca,1,99.9,Camisa Social,branca,G,Camisa
+71,226,13/05/2020,17/05/2020,19/05/2020,concluido,outros,,nf116/2020,Boleto,99.9,camisa-masc-branca,1,99.9,Camisa Social,branca,G,Camisa
+85,184,24/05/2020,28/05/2020,30/05/2020,concluido,instagram,,nf144/2020,Boleto,99.9,camisa-masc-branca,1,99.9,Camisa Social,branca,M,Camisa
+88,278,26/05/2020,30/05/2020,01/06/2020,concluido,instagram,,nf150/2020,Boleto,99.9,camisa-masc-branca,1,99.9,Camisa Social,branca,G,Camisa
+133,71,21/07/2020,25/07/2020,27/07/2020,concluido,instagram,,nf212/2020,Boleto,99.9,camisa-masc-branca,1,99.9,Camisa Social,branca,M,Camisa
+151,131,04/08/2020,04/08/2020,06/08/2020,concluido,instagram,,nf235/2020,Cartão de crédito,99.9,camisa-masc-branca,1,99.9,Camisa Social,branca,G,Camisa
+151,131,04/08/2020,04/08/2020,06/08/2020,concluido,instagram,,nf235/2020,Cartão de crédito,99.9,camisa-masc-branca,1,99.9,Camisa Social,branca,G,Camisa
+153,234,07/08/2020,11/08/2020,12/08/2020,concluido,instagram,,nf237/2020,Boleto,99.9,camisa-masc-branca,1,99.9,Camisa Social,branca,G,Camisa
+160,80,16/08/2020,16/08/2020,18/08/2020,concluido,organic,,nf244/2020,Pag Seguro,99.9,camisa-masc-branca,1,99.9,Camisa Social,branca,G,Camisa
+169,165,21/08/2020,25/08/2020,27/08/2020,concluido,organic,,nf261/2020,Boleto,99.9,camisa-masc-branca,1,99.9,Camisa Social,branca,G,Camisa
+195,95,20/09/2020,24/09/2020,26/09/2020,concluido,outros,,nf296/2020,Boleto,99.9,camisa-masc-branca,1,99.9,Camisa Social,branca,G,Camisa
+227,19,23/10/2020,27/10/2020,28/10/2020,concluido,instagram,,nf335/2020,Boleto,99.9,camisa-masc-branca,1,99.9,Camisa Social,branca,G,Camisa
+230,228,26/10/2020,26/10/2020,27/10/2020,concluido,instagram,,nf338/2020,Cartão de crédito,199.8,camisa-masc-branca,2,99.9,Camisa Social,branca,G,Camisa
+243,211,09/11/2020,09/11/2020,11/11/2020,concluido,adwords,,nf351/2020,Cartão de crédito,99.9,camisa-masc-branca,1,99.9,Camisa Social,branca,G,Camisa
+245,249,09/11/2020,13/11/2020,15/11/2020,concluido,organic,,nf353/2020,Boleto,99.9,camisa-masc-branca,1,99.9,Camisa Social,branca,G,Camisa
+246,264,09/11/2020,13/11/2020,15/11/2020,concluido,organic,,nf354/2020,Boleto,299.7,camisa-masc-branca,3,99.9,Camisa Social,branca,G,Camisa
+273,129,25/11/2020,29/11/2020,30/11/2020,concluido,outros,,nf386/2020,Boleto,99.9,camisa-masc-branca,1,99.9,Camisa Social,branca,M,Camisa
+296,121,25/11/2020,25/11/2020,27/11/2020,concluido,instagram,,nf409/2020,Cartão de crédito,99.9,camisa-masc-branca,1,99.9,Camisa Social,branca,P,Camisa
+317,15,02/12/2020,02/12/2020,04/12/2020,concluido,adwords,,nf435/2020,Cartão de crédito,99.9,camisa-masc-branca,1,99.9,Camisa Social,branca,P,Camisa
+327,211,08/12/2020,08/12/2020,09/12/2020,concluido,instagram,,nf445/2020,Cartão de crédito,99.9,camisa-masc-branca,1,99.9,Camisa Social,branca,P,Camisa
+331,173,10/12/2020,10/12/2020,12/12/2020,concluido,organic,,nf451/2020,Pag Seguro,99.9,camisa-masc-branca,1,99.9,Camisa Social,branca,G,Camisa
+333,160,17/12/2020,21/12/2020,23/12/2020,concluido,adwords,,nf457/2020,Boleto,99.9,camisa-masc-branca,1,99.9,Camisa Social,branca,M,Camisa
+372,214,31/01/2021,31/01/2021,01/02/2021,concluido,instagram,,nf535/2021,Cartão de crédito,99.9,camisa-masc-branca,1,99.9,Camisa Social,branca,M,Camisa
+375,56,31/01/2021,04/02/2021,06/02/2021,concluido,adwords,,nf538/2021,Boleto,199.8,camisa-masc-branca,2,99.9,Camisa Social,branca,M,Camisa
+398,152,21/02/2021,25/02/2021,27/02/2021,concluido,instagram,,nf577/2021,Boleto,99.9,camisa-masc-branca,1,99.9,Camisa Social,branca,G,Camisa
+157,117,12/08/2020,16/08/2020,18/08/2020,concluido,instagram,,nf241/2020,Boleto,99.9,camisa-masc-branca,1,99.9,Camisa Social,branca,G,Camisa
+221,192,12/10/2020,12/10/2020,14/10/2020,concluido,instagram,,nf325/2020,Cartão de crédito,99.9,camisa-masc-branca,1,99.9,Camisa Social,branca,G,Camisa
+344,112,09/01/2021,09/01/2021,11/01/2021,concluido,instagram,,nf468/2021,Cartão de crédito,139.9,camisa-masc-jeans,1,139.9,Camisa Social,jeans,G,Camisa
+345,19,11/01/2021,15/01/2021,17/01/2021,concluido,outros,,nf469/2021,Boleto,139.9,camisa-masc-jeans,1,139.9,Camisa Social,jeans,P,Camisa
+346,181,12/01/2021,16/01/2021,18/01/2021,concluido,instagram,,nf475/2021,Boleto,139.9,camisa-masc-jeans,1,139.9,Camisa Social,jeans,M,Camisa
+357,232,19/01/2021,19/01/2021,21/01/2021,concluido,adwords,,nf504/2021,Cartão de crédito,139.9,camisa-masc-jeans,1,139.9,Camisa Social,jeans,G,Camisa
+358,102,19/01/2021,23/01/2021,25/01/2021,concluido,instagram,,nf505/2021,Boleto,139.9,camisa-masc-jeans,1,139.9,Camisa Social,jeans,G,Camisa
+378,60,04/02/2021,04/02/2021,06/02/2021,concluido,adwords,,nf546/2021,Cartão de crédito,139.9,camisa-masc-jeans,1,139.9,Camisa Social,jeans,P,Camisa
+380,253,05/02/2021,05/02/2021,07/02/2021,concluido,organic,,nf548/2021,Pag Seguro,139.9,camisa-masc-jeans,1,139.9,Camisa Social,jeans,G,Camisa
+392,131,15/02/2021,19/02/2021,21/02/2021,concluido,organic,,nf571/2021,Boleto,139.9,camisa-masc-jeans,1,139.9,Camisa Social,jeans,M,Camisa
+16,163,07/03/2020,08/03/2020,10/03/2020,concluido,organic,,nf21/2020,Boleto,85.9,camisa-masc-linho-off_white,1,85.9,Camisa Linho,off white,M,Camisa
+41,89,08/04/2020,10/04/2020,12/04/2020,concluido,outros,,nf62/2020,Boleto,99.9,camisa-masc-preta,1,99.9,Camisa Social,preta,G,Camisa
+144,234,03/08/2020,03/08/2020,07/08/2020,concluido,instagram,,nf228/2020,Cartão de crédito,99.9,camisa-masc-preta,1,99.9,Camisa Social,preta,G,Camisa
+153,234,07/08/2020,11/08/2020,12/08/2020,concluido,instagram,,nf237/2020,Boleto,99.9,camisa-masc-preta,1,99.9,Camisa Social,preta,G,Camisa
+166,267,21/08/2020,25/08/2020,28/08/2020,concluido,instagram,,nf256/2020,Boleto,99.9,camisa-masc-preta,1,99.9,Camisa Social,preta,G,Camisa
+184,121,02/09/2020,06/09/2020,08/09/2020,concluido,outros,,nf285/2020,Boleto,99.9,camisa-masc-preta,1,99.9,Camisa Social,preta,P,Camisa
+189,225,13/09/2020,17/09/2020,21/09/2020,concluido,instagram,,nf290/2020,Boleto,99.9,camisa-masc-preta,1,99.9,Camisa Social,preta,M,Camisa
+276,199,25/11/2020,29/11/2020,03/12/2020,concluido,outros,,nf389/2020,Boleto,99.9,camisa-masc-preta,1,99.9,Camisa Social,preta,P,Camisa
+277,195,25/11/2020,29/11/2020,03/12/2020,concluido,organic,,nf390/2020,Boleto,89.9,camisa-masc-preta,1,89.9,Camisa Social,preta,P,Camisa
+289,101,25/11/2020,29/11/2020,01/12/2020,concluido,instagram,,nf402/2020,Boleto,89.9,camisa-masc-preta,1,89.9,Camisa Social,preta,M,Camisa
+300,260,25/11/2020,25/11/2020,27/11/2020,concluido,instagram,,nf413/2020,Cartão de crédito,179.8,camisa-masc-preta,2,89.9,Camisa Social,preta,G,Camisa
+305,184,30/11/2020,04/12/2020,06/12/2020,concluido,organic,,nf418/2020,Boleto,89.9,camisa-masc-preta,1,89.9,Camisa Social,preta,P,Camisa
+306,69,30/11/2020,04/12/2020,06/12/2020,concluido,outros,,nf419/2020,Boleto,179.8,camisa-masc-preta,2,89.9,Camisa Social,preta,M,Camisa
+313,233,01/12/2020,01/12/2020,03/12/2020,concluido,organic,,nf431/2020,Pag Seguro,89.9,camisa-masc-preta,1,89.9,Camisa Social,preta,P,Camisa
+314,38,02/12/2020,06/12/2020,09/12/2020,concluido,adwords,,nf432/2020,Boleto,209.7,camisa-masc-preta,3,69.9,Camisa Social,preta,GG,Camisa
+315,255,02/12/2020,06/12/2020,10/12/2020,concluido,organic,,nf433/2020,Boleto,89.9,camisa-masc-preta,1,89.9,Camisa Social,preta,P,Camisa
+321,119,04/12/2020,08/12/2020,10/12/2020,concluido,instagram,,nf439/2020,Boleto,89.9,camisa-masc-preta,1,89.9,Camisa Social,preta,PM,Camisa
+351,197,15/01/2021,19/01/2021,21/01/2021,concluido,organic,,nf484/2021,Boleto,259.8,camisa-masc-preta,2,129.9,Camisa Social,preta,G,Camisa
+356,279,19/01/2021,23/01/2021,27/01/2021,concluido,adwords,,nf503/2021,Boleto,129.9,camisa-masc-preta,1,129.9,Camisa Social,preta,M,Camisa
+360,71,21/01/2021,21/01/2021,23/01/2021,concluido,instagram,,nf507/2021,Cartão de crédito,129.9,camisa-masc-preta,1,129.9,Camisa Social,preta,M,Camisa
+368,258,27/01/2021,31/01/2021,02/02/2021,concluido,adwords,,nf524/2021,Boleto,129.9,camisa-masc-preta,1,129.9,Camisa Social,preta,P,Camisa
+385,80,11/02/2021,11/02/2021,15/02/2021,concluido,adwords,,nf564/2021,Cartão de crédito,119.9,camisa-masc-preta,1,119.9,Camisa Social,preta,G,Camisa
+390,240,11/02/2021,15/02/2021,17/02/2021,concluido,outros,,nf569/2021,Boleto,119.9,camisa-masc-preta,1,119.9,Camisa Social,preta,G,Camisa
+125,209,13/07/2020,17/07/2020,19/07/2020,concluido,instagram,,nf201/2020,Boleto,99.9,camisa-masc-preta,1,99.9,Camisa Preta,preta,GG,Camisa
+142,61,31/07/2020,31/07/2020,02/08/2020,concluido,organic,,nf226/2020,Pag Seguro,99.9,camisa-masc-preta,1,99.9,Camisa Preta,preta,P,Camisa
+161,132,19/08/2020,19/08/2020,21/08/2020,concluido,instagram,,nf251/2020,Cartão de crédito,99.9,camisa-masc-preta,1,99.9,Camisa Preta,preta,G,Camisa
+165,109,21/08/2020,21/08/2020,24/08/2020,concluido,adwords,,nf255/2020,Cartão de crédito,99.9,camisa-masc-preta,1,99.9,Camisa Preta,preta,M,Camisa
+218,228,12/10/2020,16/10/2020,18/10/2020,concluido,adwords,,nf322/2020,Boleto,99.9,camisa-masc-preta,1,99.9,Camisa Preta,preta,G,Camisa
+108,240,25/06/2020,25/06/2020,29/06/2020,concluido,adwords,,nf181/2020,Cartão de crédito,89.9,camisa-masc-preta,1,89.9,Camisa Social,preta,G,Camisa
+112,182,25/06/2020,29/06/2020,03/07/2020,concluido,adwords,,nf185/2020,Boleto,89.9,camisa-masc-preta,1,89.9,Camisa Social,preta,P,Camisa
+144,234,03/08/2020,03/08/2020,07/08/2020,concluido,instagram,,nf228/2020,Cartão de crédito,89.9,camisa-masc-preta,1,89.9,Camisa Social,preta,G,Camisa
+204,177,4/10/2020,04/10/2020,06/10/2020,concluido,instagram,,nf305/2020,Cartão de crédito,89.9,camisa-masc-preta,1,89.9,Camisa Social,preta,M,Camisa
+57,88,01/05/2020,05/05/2020,08/05/2020,concluido,instagram,,nf96/2020,Boleto,79.8,camiseta-masc-listrada,2,39.9,Camiseta Listrada,listrada,M,Camiseta
+201,171,01/10/2020,05/10/2020,07/10/2020,concluido,instagram,,nf302/2020,Boleto,39.9,camiseta-masc-listrada,1,39.9,Camiseta Listrada,listrada,M,Camiseta
+96,101,06/06/2020,06/06/2020,,cancelado,organic,,,Boleto,39.9,camiseta-masc-azul-lisa,1,39.9,Camiseta Lisa,azul,M,Camiseta
+181,240,02/09/2020,06/09/2020,08/09/2020,concluido,organic,,nf282/2020,Boleto,39.9,camiseta-masc-listrada,1,39.9,Camiseta Listrada,listrada,M,Camiseta
+182,156,02/09/2020,06/09/2020,08/09/2020,concluido,outros,,nf283/2020,Boleto,39.9,camiseta-masc-listrada,1,39.9,Camiseta Listrada,listrada,M,Camiseta
+17,42,07/03/2020,07/03/2020,,cancelado,instagram,,,Cartão de crédito,39.9,camiseta-masc-preta-lisa,1,39.9,Camiseta Lisa,preta,M,Camiseta
+14,50,06/03/2020,07/03/2020,09/03/2020,concluido,instagram,,nf19/2020,Boleto,39.9,camiseta-masc-listrada,1,39.9,Camiseta Listrada,listrada,P,Camiseta
+40,149,05/04/2020,07/04/2020,10/04/2020,concluido,organic,,nf61/2020,Boleto,39.9,camiseta-masc-azul-lisa,1,39.9,Camiseta Lisa,azul,M,Camiseta
+58,97,03/05/2020,07/05/2020,09/05/2020,concluido,outros,,nf97/2020,Boleto,39.9,camiseta-masc-verde-lisa,1,39.9,Camiseta Lisa,verde,P,Camiseta
+145,69,03/08/2020,07/08/2020,09/08/2020,concluido,organic,,nf229/2020,Boleto,39.9,camiseta-masc-azul-lisa,1,39.9,Camiseta Lisa,azul,M,Camiseta
+186,193,03/09/2020,07/09/2020,09/09/2020,concluido,organic,,nf287/2020,Boleto,39.9,camiseta-masc-verde-lisa,1,39.9,Camiseta Lisa,verde,M,Camiseta
+238,168,03/11/2020,07/11/2020,09/11/2020,concluido,organic,,nf346/2020,Boleto,71.8,camiseta-masc-listrada,2,35.9,Camiseta Listrada,listrada,G,Camiseta
+238,168,03/11/2020,07/11/2020,09/11/2020,concluido,organic,,nf346/2020,Boleto,35.9,camiseta-masc-listrada,1,35.9,Camiseta Listrada,listrada,G,Camiseta
+66,271,08/05/2020,08/05/2020,10/05/2020,concluido,adwords,,nf111/2020,Cartão de crédito,39.9,camiseta-masc-azul-lisa,1,39.9,Camiseta Lisa,azul,M,Camiseta
+92,219,04/06/2020,08/06/2020,10/06/2020,concluido,adwords,,nf154/2020,Boleto,39.9,camiseta-masc-azul-lisa,1,39.9,Camiseta Lisa,azul,M,Camiseta
+91,213,04/06/2020,08/06/2020,10/06/2020,concluido,outros,,nf153/2020,Boleto,39.9,camiseta-masc-preta-lisa,1,39.9,Camiseta Lisa,preta,M,Camiseta
+149,77,04/08/2020,08/08/2020,10/08/2020,concluido,instagram,,nf233/2020,Boleto,79.8,camiseta-masc-azul-lisa,2,39.9,Camiseta Lisa,azul,M,Camiseta
+206,83,4/10/2020,08/10/2020,10/10/2020,concluido,organic,,nf307/2020,Boleto,39.9,camiseta-masc-listrada,1,39.9,Camiseta Listrada,listrada,P,Camiseta
+320,182,04/12/2020,08/12/2020,10/12/2020,concluido,instagram,,nf438/2020,Boleto,25.9,camiseta-masc-listrada,1,25.9,Camiseta Listrada,listrada,G,Camiseta
+327,211,08/12/2020,08/12/2020,09/12/2020,concluido,instagram,,nf445/2020,Cartão de crédito,89.7,camiseta-masc-preta-lisa,3,29.9,Camiseta Lisa,preta,G,Camiseta
+114,243,09/07/2020,09/07/2020,,cancelado,adwords,,,Boleto,79.8,camiseta-masc-listrada,2,39.9,Camiseta Lisa,branca,M,Camiseta
+117,124,09/07/2020,09/07/2020,11/07/2020,concluido,instagram,,nf190/2020,Cartão de crédito,39.9,camiseta-masc-listrada,1,39.9,Camiseta Listrada,listrada,M,Camiseta
+239,50,05/11/2020,09/11/2020,10/11/2020,concluido,outros,,nf347/2020,Boleto,39.9,camiseta-masc-azul-lisa,1,39.9,Camiseta Lisa,azul,M,Camiseta
+241,90,09/11/2020,09/11/2020,13/11/2020,concluido,instagram,,nf349/2020,Cartão de crédito,19.9,camiseta-masc-azul-lisa,1,19.9,Camiseta Lisa,azul,P,Camiseta
+325,132,05/12/2020,09/12/2020,11/12/2020,concluido,adwords,,nf443/2020,Boleto,19.9,camiseta-masc-azul-lisa,1,19.9,Camiseta Lisa,azul,M,Camiseta
+326,54,05/12/2020,09/12/2020,11/12/2020,concluido,adwords,,nf444/2020,Boleto,39.8,camiseta-masc-azul-lisa,2,19.9,Camiseta Lisa,azul,G,Camiseta
+322,76,05/12/2020,09/12/2020,12/12/2020,concluido,organic,,nf440/2020,Boleto,59.8,camiseta-masc-preta-lisa,2,29.9,Camiseta Lisa,preta,M,Camiseta
+323,78,05/12/2020,09/12/2020,11/12/2020,concluido,instagram,,nf441/2020,Boleto,29.9,camiseta-masc-preta-lisa,1,29.9,Camiseta Lisa,preta,G,Camiseta
+324,153,05/12/2020,09/12/2020,11/12/2020,concluido,adwords,,nf442/2020,Boleto,77.7,camiseta-masc-verde-lisa,3,25.9,Camiseta Lisa,verde,P,Camiseta
+120,103,10/07/2020,10/07/2020,,cancelado,instagram,,,Cartão de crédito,39.9,camiseta-masc-preta-lisa,1,39.9,Camiseta Lisa,preta,GG,Camiseta
+20,147,09/03/2020,11/03/2020,14/03/2020,concluido,organic,,nf25/2020,Boleto,39.9,camiseta-masc-azul-lisa,1,39.9,Camiseta Lisa,azul,M,Camiseta
+103,137,11/06/2020,11/06/2020,15/06/2020,concluido,instagram,,nf172/2020,Cartão de crédito,79.8,camiseta-masc-listrada,2,39.9,Camiseta Lisa,branca,M,Camiseta
+213,186,11/10/2020,11/10/2020,13/10/2020,concluido,adwords,,nf314/2020,Cartão de crédito,39.9,camiseta-masc-listrada,1,39.9,Camiseta Listrada,listrada,M,Camiseta
+2,107,11/01/2020,12/01/2020,14/01/2020,concluido,adwords,,,Cartão de crédito,39.9,camiseta-masc-preta-lisa,1,39.9,Camiseta Lisa,preta,M,Camiseta
+11,182,11/02/2020,12/02/2020,14/02/2020,concluido,instagram,,nf16/2020,Boleto,39.9,camiseta-masc-azul-lisa,1,39.9,Camiseta Lisa,azul,M,Camiseta
+10,242,11/02/2020,12/02/2020,14/02/2020,concluido,outros,,nf15/2020,Boleto,39.9,camiseta-masc-verde-lisa,1,39.9,Camiseta Lisa,verde,M,Camiseta
+98,101,08/06/2020,12/06/2020,13/06/2020,concluido,instagram,,nf160/2020,Boleto,39.9,camiseta-masc-preta-lisa,1,39.9,Camiseta Lisa,preta,GG,Camiseta
+100,228,08/06/2020,12/06/2020,15/06/2020,concluido,adwords,,nf162/2020,Boleto,69.8,camiseta-masc-regata-branca,2,34.9,Camiseta Lisa,branca,G,Camiseta
+155,70,12/08/2020,12/08/2020,14/08/2020,concluido,instagram,,nf239/2020,Cartão de crédito,39.9,camiseta-masc-listrada,1,39.9,Camiseta Listrada,listrada,M,Camiseta
+156,122,12/08/2020,12/08/2020,14/08/2020,concluido,adwords,,nf240/2020,Cartão de crédito,39.9,camiseta-masc-verde-lisa,1,39.9,Camiseta Lisa,verde,M,Camiseta
+370,97,29/01/2021,02/02/2021,04/02/2021,concluido,instagram,,nf533/2021,Boleto,79.8,camiseta-masc-verde-lisa,2,39.9,Camiseta Lisa,verde,G,Camiseta
+378,60,04/02/2021,04/02/2021,06/02/2021,concluido,adwords,,nf546/2021,Cartão de crédito,99.8,camiseta-masc-preta-lisa,2,49.9,Camiseta Lisa,preta,G,Camiseta
+342,55,06/01/2021,06/01/2021,10/01/2021,concluido,instagram,,nf466/2021,Cartão de crédito,55.9,camiseta-masc-listrada,1,55.9,Camiseta Listrada,listrada,G,Camiseta
+343,94,09/01/2021,09/01/2021,11/01/2021,concluido,organic,,nf467/2021,Pag Seguro,99.8,camiseta-masc-azul-lisa,2,49.9,Camiseta Lisa,azul,G,Camiseta
+383,89,08/02/2021,12/02/2021,14/02/2021,concluido,adwords,,nf562/2021,Boleto,49.9,camiseta-masc-verde-lisa,1,49.9,Camiseta Lisa,verde,G,Camiseta
+190,155,13/09/2020,13/09/2020,15/09/2020,concluido,instagram,,nf291/2020,Cartão de crédito,39.9,camiseta-masc-listrada,1,39.9,Camiseta Listrada,listrada,M,Camiseta
+191,153,13/09/2020,13/09/2020,15/09/2020,concluido,instagram,,nf292/2020,Cartão de crédito,39.9,camiseta-masc-listrada,1,39.9,Camiseta Listrada,listrada,G,Camiseta
+192,14,13/09/2020,13/09/2020,15/09/2020,concluido,organic,,nf293/2020,Pag Seguro,69.8,camiseta-masc-regata-branca,2,34.9,Camiseta Lisa,branca,M,Camiseta
+210,278,9/10/2020,13/10/2020,15/10/2020,concluido,outros,,nf311/2020,Boleto,39.9,camiseta-masc-azul-lisa,1,39.9,Camiseta Lisa,azul,M,Camiseta
+208,256,9/10/2020,13/10/2020,17/10/2020,concluido,adwords,,nf309/2020,Boleto,39.9,camiseta-masc-listrada,1,39.9,Camiseta Listrada,listrada,M,Camiseta
+209,211,9/10/2020,13/10/2020,15/10/2020,concluido,organic,,nf310/2020,Boleto,34.9,camiseta-masc-regata-branca,1,34.9,Camiseta Lisa,branca,P,Camiseta
+242,98,09/11/2020,13/11/2020,17/11/2020,concluido,instagram,,nf350/2020,Boleto,39.8,camiseta-masc-azul-lisa,2,19.9,Camiseta Lisa,azul,M,Camiseta
+244,139,09/11/2020,13/11/2020,15/11/2020,concluido,adwords,,nf352/2020,Boleto,59.8,camiseta-masc-preta-lisa,2,29.9,Camiseta Lisa,preta,G,Camiseta
+23,121,12/03/2020,14/03/2020,16/03/2020,concluido,organic,,nf28/2020,Boleto,79.8,camiseta-masc-listrada,2,39.9,Camiseta Lisa,branca,M,Camiseta
+118,252,10/07/2020,14/07/2020,16/07/2020,concluido,organic,,nf194/2020,Boleto,39.9,camiseta-masc-listrada,1,39.9,Camiseta Listrada,listrada,M,Camiseta
+260,52,14/11/2020,14/11/2020,,cancelado,adwords,,,Boleto,59.7,camiseta-masc-azul-lisa,3,19.9,Camiseta Lisa,azul,G,Camiseta
+250,130,14/11/2020,14/11/2020,18/11/2020,concluido,adwords,,nf358/2020,Cartão de crédito,19.9,camiseta-masc-azul-lisa,1,19.9,Camiseta Lisa,azul,G,Camiseta
+251,193,14/11/2020,14/11/2020,18/11/2020,concluido,organic,,nf359/2020,Cartão de crédito,19.9,camiseta-masc-azul-lisa,1,19.9,Camiseta Lisa,azul,M,Camiseta
+257,85,14/11/2020,14/11/2020,16/11/2020,concluido,instagram,,nf370/2020,Cartão de crédito,25.9,camiseta-masc-verde-lisa,1,25.9,Camiseta Lisa,verde,G,Camiseta
+388,22,11/02/2021,15/02/2021,17/02/2021,concluido,outros,,nf567/2021,Boleto,49.9,camiseta-masc-preta-lisa,1,49.9,Camiseta Lisa,preta,M,Camiseta
+67,111,11/05/2020,15/05/2020,18/05/2020,concluido,instagram,,nf112/2020,Boleto,79.8,camiseta-masc-listrada,2,39.9,Camiseta Listrada,listrada,G,Camiseta
+105,215,11/06/2020,15/06/2020,19/06/2020,concluido,instagram,,nf174/2020,Boleto,39.9,camiseta-masc-azul-lisa,1,39.9,Camiseta Lisa,azul,M,Camiseta
+212,22,11/10/2020,15/10/2020,16/10/2020,concluido,instagram,,nf313/2020,Boleto,39.9,camiseta-masc-listrada,1,39.9,Camiseta Listrada,listrada,G,Camiseta
+214,233,11/10/2020,15/10/2020,17/10/2020,concluido,adwords,,nf315/2020,Boleto,39.9,camiseta-masc-preta-lisa,1,39.9,Camiseta Lisa,preta,P,Camiseta
+353,209,16/01/2021,16/01/2021,,cancelado,organic,,,Boleto,69.8,camiseta-masc-regata-branca,2,34.9,Camiseta Lisa,branca,P,Camiseta
+347,137,12/01/2021,16/01/2021,18/01/2021,concluido,outros,,nf476/2021,Boleto,25.9,camiseta-masc-listrada,1,25.9,Camiseta Listrada,listrada,G,Camiseta
+219,166,12/10/2020,16/10/2020,18/10/2020,concluido,organic,,nf323/2020,Boleto,39.9,camiseta-masc-azul-lisa,1,39.9,Camiseta Lisa,azul,M,Camiseta
+220,63,12/10/2020,16/10/2020,18/10/2020,concluido,instagram,,nf324/2020,Boleto,39.9,camiseta-masc-listrada,1,39.9,Camiseta Listrada,listrada,M,Camiseta
+4,83,17/01/2020,17/01/2020,,cancelado,instagram,,,Boleto,39.9,camiseta-masc-preta-lisa,1,39.9,Camiseta Lisa,preta,M,Camiseta
+5,156,17/01/2020,17/01/2020,,cancelado,instagram,,,Cartão de crédito,79.8,camiseta-masc-preta-lisa,2,39.9,Camiseta Lisa,preta,M,Camiseta
+350,135,13/01/2021,17/01/2021,19/01/2021,concluido,instagram,,nf479/2021,Boleto,49.9,camiseta-masc-preta-lisa,1,49.9,Camiseta Lisa,preta,P,Camiseta
+72,37,13/05/2020,17/05/2020,19/05/2020,concluido,outros,,nf117/2020,Boleto,79.8,camiseta-masc-preta-lisa,2,39.9,Camiseta Lisa,preta,G,Camiseta
+123,116,13/07/2020,17/07/2020,19/07/2020,concluido,adwords,,nf199/2020,Boleto,79.8,camiseta-masc-listrada,2,39.9,Camiseta Listrada,listrada,M,Camiseta
+122,249,13/07/2020,17/07/2020,20/07/2020,concluido,instagram,,nf198/2020,Boleto,39.9,camiseta-masc-preta-lisa,1,39.9,Camiseta Lisa,preta,G,Camiseta
+122,249,13/07/2020,17/07/2020,20/07/2020,concluido,instagram,,nf198/2020,Boleto,39.9,camiseta-masc-azul-lisa,1,39.9,Camiseta Lisa,azul,M,Camiseta
+6,225,17/01/2020,18/01/2020,20/01/2020,concluido,organic,,nf11/2020,Pag Seguro,39.9,camiseta-masc-branca-lisa,1,39.9,Camiseta Lisa,branca,M,Camiseta
+3,252,17/01/2020,18/01/2020,20/01/2020,concluido,instagram,,nf3/2020,Boleto,39.9,camiseta-masc-preta-lisa,1,39.9,Camiseta Lisa,preta,M,Camiseta
+127,6,18/07/2020,18/07/2020,22/07/2020,concluido,organic,,nf203/2020,Pag Seguro,39.9,camiseta-masc-listrada,1,39.9,Camiseta Listrada,listrada,M,Camiseta
+255,8,14/11/2020,18/11/2020,20/11/2020,concluido,adwords,,nf363/2020,Boleto,19.9,camiseta-masc-azul-lisa,1,19.9,Camiseta Lisa,azul,M,Camiseta
+258,131,14/11/2020,18/11/2020,20/11/2020,concluido,organic,,nf371/2020,Boleto,19.9,camiseta-masc-azul-lisa,1,19.9,Camiseta Lisa,azul,M,Camiseta
+253,21,14/11/2020,18/11/2020,19/11/2020,concluido,instagram,,nf361/2020,Boleto,89.7,camiseta-masc-preta-lisa,3,29.9,Camiseta Lisa,preta,G,Camiseta
+253,21,14/11/2020,18/11/2020,19/11/2020,concluido,instagram,,nf361/2020,Boleto,59.8,camiseta-masc-preta-lisa,2,29.9,Camiseta Lisa,preta,M,Camiseta
+258,77,14/11/2020,18/11/2020,20/11/2020,concluido,organic,,nf371/2020,Boleto,59.8,camiseta-masc-preta-lisa,2,29.9,Camiseta Lisa,preta,G,Camiseta
+254,21,14/11/2020,18/11/2020,19/11/2020,concluido,instagram,,nf362/2020,Boleto,25.9,camiseta-masc-verde-lisa,1,25.9,Camiseta Lisa,verde,M,Camiseta
+256,32,14/11/2020,18/11/2020,20/11/2020,concluido,instagram,,nf369/2020,Boleto,51.8,camiseta-masc-verde-lisa,2,25.9,Camiseta Lisa,verde,G,Camiseta
+43,39,17/04/2020,19/04/2020,21/04/2020,concluido,adwords,,nf64/2020,Cartão de crédito,39.9,camiseta-masc-preta-lisa,1,39.9,Camiseta Lisa,preta,M,Camiseta
+79,71,19/05/2020,19/05/2020,20/05/2020,concluido,adwords,,nf131/2020,Cartão de crédito,39.9,camiseta-masc-preta-lisa,1,39.9,Camiseta Lisa,preta,G,Camiseta
+163,225,19/08/2020,19/08/2020,21/08/2020,concluido,organic,,nf253/2020,Pag Seguro,39.9,camiseta-masc-listrada,1,39.9,Camiseta Listrada,listrada,M,Camiseta
+264,131,16/11/2020,20/11/2020,23/11/2020,concluido,adwords,,nf377/2020,Boleto,39.8,camiseta-masc-azul-lisa,2,19.9,Camiseta Lisa,azul,G,Camiseta
+263,25,16/11/2020,20/11/2020,22/11/2020,concluido,instagram,,nf376/2020,Boleto,51.8,camiseta-masc-verde-lisa,2,25.9,Camiseta Lisa,verde,M,Camiseta
+394,239,21/02/2021,21/02/2021,23/02/2021,concluido,adwords,,nf573/2021,Cartão de crédito,49.9,camiseta-masc-azul-lisa,1,49.9,Camiseta Lisa,azul,M,Camiseta
+49,18,21/04/2020,21/04/2020,,cancelado,instagram,,,Cartão de crédito,39.9,camiseta-masc-azul-lisa,1,39.9,Camiseta Lisa,azul,M,Camiseta
+132,41,21/07/2020,21/07/2020,23/07/2020,concluido,instagram,,nf211/2020,Cartão de crédito,39.9,camiseta-masc-listrada,1,39.9,Camiseta Listrada,listrada,M,Camiseta
+165,109,21/08/2020,21/08/2020,24/08/2020,concluido,adwords,,nf255/2020,Cartão de crédito,39.9,camiseta-masc-verde-lisa,1,39.9,Camiseta Lisa,verde,M,Camiseta
+399,161,22/02/2021,22/02/2021,,aguardando pagamento,instagram,,,Boleto,149.7,camiseta-masc-branca-lisa,3,49.9,Camiseta Lisa,branca,M,Camiseta
+45,246,20/04/2020,22/04/2020,25/04/2020,concluido,organic,,nf66/2020,Boleto,39.9,camiseta-masc-azul-lisa,1,39.9,Camiseta Lisa,azul,M,Camiseta
+83,210,21/05/2020,22/05/2020,24/05/2020,concluido,organic,,nf140/2020,Pag Seguro,79.8,camiseta-masc-listrada,2,39.9,Camiseta Lisa,branca,M,Camiseta
+128,232,18/07/2020,22/07/2020,26/07/2020,concluido,instagram,,nf204/2020,Boleto,39.9,camiseta-masc-azul-lisa,1,39.9,Camiseta Lisa,azul,P4,Camiseta
+128,232,18/07/2020,22/07/2020,26/07/2020,concluido,instagram,,nf204/2020,Boleto,79.8,camiseta-masc-azul-lisa,2,39.9,Camiseta Lisa,azul,M,Camiseta
+358,102,19/01/2021,23/01/2021,25/01/2021,concluido,instagram,,nf505/2021,Boleto,49.9,camiseta-masc-preta-lisa,1,49.9,Camiseta Lisa,preta,P,Camiseta
+401,72,23/02/2021,23/02/2021,,aguardando pagamento,instagram,,,Boleto,49.9,camiseta-masc-preta-lisa,1,49.9,Camiseta Lisa,preta,M,Camiseta
+47,88,21/04/2020,23/04/2020,25/04/2020,concluido,instagram,,nf68/2020,Boleto,39.9,camiseta-masc-listrada,1,39.9,Camiseta Listrada,listrada,P,Camiseta
+129,20,19/07/2020,23/07/2020,25/07/2020,concluido,organic,,nf205/2020,Boleto,39.9,camiseta-masc-listrada,1,39.9,Camiseta Listrada,listrada,M,Camiseta
+162,7,19/08/2020,23/08/2020,25/08/2020,concluido,instagram,,nf252/2020,Boleto,39.9,camiseta-masc-preta-lisa,1,39.9,Camiseta Lisa,preta,M,Camiseta
+335,105,19/12/2020,23/12/2020,25/12/2020,concluido,outros,,nf459/2020,Boleto,51.8,camiseta-masc-listrada,2,25.9,Camiseta Listrada,listrada,M,Camiseta
+13,5,23/02/2020,24/02/2020,26/02/2020,concluido,adwords,,nf18/2020,Cartão de crédito,39.9,camiseta-masc-branca-lisa,1,39.9,Camiseta Lisa,branca,M,Camiseta
+402,7,24/02/2021,24/02/2021,,aguardando pagamento,instagram,,,Boleto,49.9,camiseta-masc-branca-lisa,1,49.9,Camiseta Lisa,branca,M,Camiseta
+393,220,20/02/2021,24/02/2021,26/02/2021,concluido,instagram,,nf572/2021,Boleto,49.9,camiseta-masc-azul-lisa,1,49.9,Camiseta Lisa,azul,M,Camiseta
+403,254,24/02/2021,24/02/2021,26/02/2021,concluido,instagram,,nf592/2021,Cartão de crédito,49.9,camiseta-masc-verde-lisa,1,49.9,Camiseta Lisa,verde,M,Camiseta
+130,41,20/07/2020,24/07/2020,26/07/2020,concluido,instagram,,nf206/2020,Boleto,39.9,camiseta-masc-listrada,1,39.9,Camiseta Lisa,branca,M,Camiseta
+173,263,24/08/2020,24/08/2020,26/08/2020,concluido,instagram,,nf269/2020,Cartão de crédito,39.9,camiseta-masc-verde-lisa,1,39.9,Camiseta Lisa,verde,GG,Camiseta
+193,233,20/09/2020,24/09/2020,27/09/2020,concluido,instagram,,nf294/2020,Boleto,39.9,camiseta-masc-azul-lisa,1,39.9,Camiseta Lisa,azul,M,Camiseta
+195,95,20/09/2020,24/09/2020,26/09/2020,concluido,outros,,nf296/2020,Boleto,39.9,camiseta-masc-listrada,1,39.9,Camiseta Listrada,listrada,M,Camiseta
+362,46,25/01/2021,25/01/2021,28/01/2021,concluido,instagram,,nf509/2021,Cartão de crédito,99.8,camiseta-masc-branca-lisa,2,49.9,Camiseta Lisa,branca,M,Camiseta
+363,279,25/01/2021,25/01/2021,29/01/2021,concluido,organic,,nf510/2021,Cartão de crédito,99.8,camiseta-masc-branca-lisa,2,49.9,Camiseta Lisa,branca,M,Camiseta
+363,62,25/01/2021,25/01/2021,29/01/2021,concluido,organic,,nf510/2021,Cartão de crédito,49.9,camiseta-masc-preta-lisa,1,49.9,Camiseta Lisa,preta,G,Camiseta
+397,31,21/02/2021,25/02/2021,27/02/2021,concluido,outros,,nf576/2021,Boleto,49.9,camiseta-masc-azul-lisa,1,49.9,Camiseta Lisa,azul,M,Camiseta
+395,99,21/02/2021,25/02/2021,01/03/2021,concluido,instagram,,nf574/2021,Boleto,149.7,camiseta-masc-branca-lisa,3,49.9,Camiseta Lisa,branca,M,Camiseta
+51,212,23/04/2020,25/04/2020,28/04/2020,concluido,organic,,nf72/2020,Pag Seguro,39.9,camiseta-masc-preta-lisa,1,39.9,Camiseta Lisa,preta,M,Camiseta
+169,165,21/08/2020,25/08/2020,27/08/2020,concluido,organic,,nf261/2020,Boleto,39.9,camiseta-masc-listrada,1,39.9,Camiseta Listrada,listrada,M,Camiseta
+361,49,25/1/2021,25/1/2021,,cancelado,outros,,,Boleto,39.9,camiseta-masc-verde-lisa,1,39.9,Camiseta Lisa,verde,G,Camiseta
+281,196,25/11/2020,25/11/2020,27/11/2020,concluido,instagram,,nf394/2020,Cartão de crédito,30,camiseta-masc-branca-lisa,1,30,Camiseta Lisa,branca,G,Camiseta
+286,153,25/11/2020,25/11/2020,27/11/2020,concluido,instagram,,nf399/2020,Cartão de crédito,51.8,camiseta-masc-listrada,2,25.9,Camiseta Listrada,listrada,M,Camiseta
+292,123,25/11/2020,25/11/2020,27/11/2020,concluido,adwords,,nf405/2020,Cartão de crédito,25.9,camiseta-masc-verde-lisa,1,25.9,Camiseta Lisa,verde,M,Camiseta
+336,253,21/12/2020,25/12/2020,26/12/2020,concluido,adwords,,nf460/2020,Boleto,25.9,camiseta-masc-listrada,1,25.9,Camiseta Listrada,listrada,G,Camiseta
+337,75,21/12/2020,25/12/2020,27/12/2020,concluido,instagram,,nf461/2020,Boleto,51.8,camiseta-masc-verde-lisa,2,25.9,Camiseta Lisa,verde,G,Camiseta
+29,14,24/03/2020,26/03/2020,28/03/2020,concluido,adwords,,nf37/2020,Boleto,39.9,camiseta-masc-preta-lisa,1,39.9,Camiseta Lisa,preta,M,Camiseta
+52,210,24/04/2020,26/04/2020,27/04/2020,concluido,organic,,nf73/2020,Pag Seguro,39.9,camiseta-masc-azul-lisa,1,39.9,Camiseta Lisa,azul,M,Camiseta
+270,66,22/11/2020,26/11/2020,28/11/2020,concluido,instagram,,nf383/2020,Boleto,30,camiseta-masc-branca-lisa,1,30,Camiseta Lisa,branca,G,Camiseta
+267,89,22/11/2020,26/11/2020,30/11/2020,concluido,instagram,,nf380/2020,Boleto,25.9,camiseta-masc-verde-lisa,1,25.9,Camiseta Lisa,verde,M,Camiseta
+400,187,23/02/2021,27/02/2021,01/03/2021,concluido,instagram,,nf589/2021,Boleto,99.8,camiseta-masc-preta-lisa,2,49.9,Camiseta Lisa,preta,M,Camiseta
+107,215,23/06/2020,27/06/2020,29/06/2020,concluido,instagram,,nf180/2020,Boleto,39.9,camiseta-masc-listrada,1,39.9,Camiseta Listrada,listrada,M,Camiseta
+135,16,23/07/2020,27/07/2020,29/07/2020,concluido,instagram,,nf219/2020,Boleto,39.9,camiseta-masc-azul-lisa,1,39.9,Camiseta Lisa,azul,M,Camiseta
+135,16,23/07/2020,27/07/2020,29/07/2020,concluido,instagram,,nf219/2020,Boleto,39.9,camiseta-masc-listrada,1,39.9,Camiseta Listrada,listrada,G,Camiseta
+228,273,23/10/2020,27/10/2020,29/10/2020,concluido,outros,,nf336/2020,Boleto,39.9,camiseta-masc-azul-lisa,1,39.9,Camiseta Lisa,azul,M,Camiseta
+85,184,24/05/2020,28/05/2020,30/05/2020,concluido,instagram,,nf144/2020,Boleto,39.9,camiseta-masc-azul-lisa,1,39.9,Camiseta Lisa,azul,M,Camiseta
+140,224,28/07/2020,28/07/2020,01/08/2020,concluido,organic,,nf224/2020,Pag Seguro,39.9,camiseta-masc-listrada,1,39.9,Camiseta Listrada,listrada,M,Camiseta
+141,42,28/07/2020,28/07/2020,30/07/2020,concluido,organic,,nf225/2020,Pag Seguro,39.9,camiseta-masc-azul-lisa,1,39.9,Camiseta Lisa,azul,P,Camiseta
+366,85,25/01/2021,29/01/2021,02/02/2021,concluido,instagram,,nf513/2021,Boleto,99.8,camiseta-masc-branca-lisa,2,49.9,Camiseta Lisa,branca,M,Camiseta
+367,34,25/01/2021,29/01/2021,31/01/2021,concluido,instagram,,nf523/2021,Boleto,49.9,camiseta-masc-branca-lisa,1,49.9,Camiseta Lisa,branca,M,Camiseta
+364,220,25/01/2021,29/01/2021,31/01/2021,concluido,organic,,nf511/2021,Boleto,49.9,camiseta-masc-cinza,1,49.9,Camiseta Lisa,cinza,M,Camiseta
+365,262,25/01/2021,29/01/2021,01/02/2021,concluido,instagram,,nf512/2021,Boleto,69.8,camiseta-masc-regata-branca,2,34.9,Camiseta Lisa,branca,G,Camiseta
+367,34,25/01/2021,29/01/2021,31/01/2021,concluido,instagram,,nf523/2021,Boleto,104.7,camiseta-masc-regata-branca,3,34.9,Camiseta Lisa,branca,G,Camiseta
+53,68,27/04/2020,29/04/2020,01/05/2020,concluido,organic,,nf92/2020,Boleto,39.9,camiseta-masc-verde-lisa,1,39.9,Camiseta Lisa,verde,GG,Camiseta
+109,113,25/06/2020,29/06/2020,30/06/2020,concluido,organic,,nf182/2020,Boleto,79.8,camiseta-masc-azul-lisa,2,39.9,Camiseta Lisa,azul,P,Camiseta
+110,117,25/06/2020,29/06/2020,01/07/2020,concluido,instagram,,nf183/2020,Boleto,39.9,camiseta-masc-preta-lisa,1,39.9,Camiseta Lisa,preta,M,Camiseta
+111,127,25/06/2020,29/06/2020,02/07/2020,concluido,adwords,,nf184/2020,Boleto,34.9,camiseta-masc-regata-branca,1,34.9,Camiseta Lisa,branca,G,Camiseta
+136,136,25/07/2020,29/07/2020,31/07/2020,concluido,organic,,nf220/2020,Boleto,39.9,camiseta-masc-azul-lisa,1,39.9,Camiseta Lisa,azul,M,Camiseta
+137,61,25/07/2020,29/07/2020,31/07/2020,concluido,adwords,,nf221/2020,Boleto,39.9,camiseta-masc-listrada,1,39.9,Camiseta Listrada,listrada,P,Camiseta
+285,70,25/11/2020,29/11/2020,01/12/2020,concluido,adwords,,nf398/2020,Boleto,30,camiseta-masc-branca-lisa,1,30,Camiseta Lisa,branca,M,Camiseta
+297,124,25/11/2020,29/11/2020,01/12/2020,concluido,organic,,nf410/2020,Boleto,60,camiseta-masc-branca-lisa,2,30,Camiseta Lisa,branca,M,Camiseta
+274,68,25/11/2020,29/11/2020,01/12/2020,concluido,outros,,nf387/2020,Boleto,77.7,camiseta-masc-verde-lisa,3,25.9,Camiseta Lisa,verde,M,Camiseta
+284,194,25/11/2020,29/11/2020,01/12/2020,concluido,organic,,nf397/2020,Boleto,51.8,camiseta-masc-verde-lisa,2,25.9,Camiseta Lisa,verde,M,Camiseta
+287,251,25/11/2020,29/11/2020,01/12/2020,concluido,adwords,,nf400/2020,Boleto,51.8,camiseta-masc-verde-lisa,2,25.9,Camiseta Lisa,verde,M,Camiseta
+291,79,25/11/2020,29/11/2020,01/12/2020,concluido,outros,,nf404/2020,Boleto,51.8,camiseta-masc-verde-lisa,2,25.9,Camiseta Lisa,verde,M,Camiseta
+297,124,25/11/2020,29/11/2020,01/12/2020,concluido,organic,,nf410/2020,Boleto,51.8,camiseta-masc-verde-lisa,2,25.9,Camiseta Lisa,verde,P,Camiseta
+87,202,26/05/2020,30/05/2020,01/06/2020,concluido,outros,,nf149/2020,Boleto,39.9,camiseta-masc-preta-lisa,1,39.9,Camiseta Lisa,preta,M,Camiseta
+174,228,26/08/2020,30/08/2020,02/09/2020,concluido,organic,,nf270/2020,Boleto,39.9,camiseta-masc-listrada,1,39.9,Camiseta Listrada,listrada,M,Camiseta
+231,170,26/10/2020,30/10/2020,01/11/2020,concluido,organic,,nf339/2020,Boleto,79.8,camiseta-masc-verde-lisa,2,39.9,Camiseta Lisa,verde,G,Camiseta
+309,188,30/11/2020,30/11/2020,02/12/2020,concluido,organic,,nf422/2020,Pag Seguro,25.9,camiseta-masc-listrada,1,25.9,Camiseta Listrada,listrada,G,Camiseta
+371,81,31/01/2021,31/01/2021,,cancelado,organic,,,Boleto,49.9,camiseta-masc-cinza,1,49.9,Camiseta Lisa,cinza,G,Camiseta
+373,65,31/01/2021,31/01/2021,03/02/2021,concluido,adwords,,nf536/2021,Cartão de crédito,49.9,camiseta-masc-preta-lisa,1,49.9,Camiseta Lisa,preta,G,Camiseta
+143,147,31/07/2020,31/07/2020,02/08/2020,concluido,instagram,,nf227/2020,Cartão de crédito,39.9,camiseta-masc-listrada,1,39.9,Camiseta Listrada,listrada,M,Camiseta
+158,9,16/08/2020,16/08/2020,19/08/2020,concluido,organic,,nf242/2020,Cartão de crédito,79.9,bermuda-masc-preta-lisa,1,79.9,Bermuda Preta,preta,G,Bermuda
+158,9,16/08/2020,16/08/2020,19/08/2020,concluido,organic,,nf242/2020,Cartão de crédito,159.8,bermuda-masc-preta-lisa,2,79.9,Bermuda Preta,preta,M,Bermuda
+172,211,23/08/2020,23/08/2020,25/08/2020,concluido,instagram,,nf264/2020,Cartão de crédito,129.9,camisa-masc-azul-escuro,1,129.9,Camisa Social,azul,M,Camisa
+195,95,20/09/2020,24/09/2020,26/09/2020,concluido,outros,,nf296/2020,Boleto,69.9,bermuda-masc-linho-off_white,1,69.9,Bermuda Linho,off white,M,Bermuda
+208,256,9/10/2020,13/10/2020,17/10/2020,concluido,adwords,,nf309/2020,Boleto,129.9,camisa-masc-azul-escuro,1,129.9,Camisa Social,azul,GG,Camisa
+211,276,9/10/2020,09/10/2020,11/10/2020,concluido,instagram,,nf312/2020,Cartão de crédito,79.9,bermuda-masc-cinza,1,79.9,Bermuda Cinza,cinza,G,Bermuda
