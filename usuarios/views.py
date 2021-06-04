@@ -14,4 +14,4 @@ def financeiro(request):
 
 
 def outros(request):
-    return render(request, 'outros.html')
+    return render(request, 'personalizados.html')

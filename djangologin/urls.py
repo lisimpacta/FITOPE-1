@@ -28,7 +28,7 @@ urlpatterns = [
     #path('vendas/', TemplateView.as_view(template_name='vendas.html'), name='vendas'),
     path('financeiro/', TemplateView.as_view(template_name='financeiro.html'), name='financeiro'),
     #path('markerting/', TemplateView.as_view(template_name='markerting.html'), name='markerting'),
-    path('outros/', TemplateView.as_view(template_name='outros.html'), name='outros'),
+    path('personalizados/', TemplateView.as_view(template_name='personalizados.html'), name='personalizados'),
     path('outros_plot/', include('django_plotly_dash.urls')),
     #path(r'core/', include('core.models')),
 

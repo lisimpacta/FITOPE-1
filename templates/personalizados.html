@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Financeiro</title>
+    <title> Relatorios Personalizados</title>
 </head>
 <body style='margin: 0; padding: 0; font-family:verdana'>
     <div style='width: 100%; height:5em; background-color:#222aa4;'>
@@ -12,9 +12,17 @@
             <img src="{% static 'imagens/logo.png' %}" style='height:100%;'>
         </a>
       </div>
-      <div style='padding: 0.5em;'>
-        <h2 style='color:#ebebeb;'>Financeiro</h2>
+      <div style='padding: 0.10em;'>
+        <h2 style='color:#ebebeb;'> Relatorios Personalizados</h2>
+      </div>
+      <div style='float: right;'>
+        <a class="btn btn-secundary" href="{% url 'personalizados' %}" title='Limpar'>
+          <img src="{% static 'imagens/refresh.png' %}" style='height: 3em;'>
+        </a>
       </div>
     </div>
+ 
+        {% plotly_app name='dash_integration_id' ratio=1 %}
+
 </body>
 </html>
