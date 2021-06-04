@@ -42,9 +42,9 @@ print(df_pedido_2.loc[df_pedido_2['status']=='aguardando pagamento']['valor'].su
 fig2 = go.Figure()
 for i in df_pedido_2.set_index(df_pedido_2['data_pagamento'].astype('datetime64[M]'))['fonte_mkt'].unique():
         fig2.add_trace(go.Scatter(x=df_pedido_2.set_index(df_pedido_2['data_pagamento'].astype('datetime64[M]')).groupby('fonte_mkt').get_group(i).groupby(level=0).sum().index,
-         y=df_pedido_2.set_index(df_pedido_2['data_pagamento'].astype('datetime64[M]')).groupby('fonte_mkt').get_group(i).groupby(level=0).sum()['valor'], name=i
+         y=df_pedido_2.set_index(df_pedido_2['data_pagamento'].astype('datetime64[M]')).groupby('fonte_mkt').get_group(i).groupby(level=0).sum()['valor'], name=i,
         ))
-fig2.update_layout(plot_bgcolor='white')
+fig2.update_layout(title='Faturamento mensal por fonte de marketing',plot_bgcolor='white')
 
 fig3 = go.Figure()
 
