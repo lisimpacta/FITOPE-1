@@ -2,8 +2,8 @@ id_pedido,cliente_id,data_pedido,data_pagamento,data_envio,status,fonte_mkt,comm
 399,161,22/02/2021,22/02/2021,,aguardando pagamento,instagram,,,Boleto,99.9,bermuda-masc-cinza,1,99.9,Bermuda Cinza,cinza,M,Bermuda
 408,51,27/02/2021,27/02/2021,,aguardando pagamento,adwords,,,Boleto,99.9,bermuda-masc-cinza,1,99.9,Bermuda Cinza,cinza,G,Bermuda
 405,255,26/02/2021,26/02/2021,,aguardando pagamento,instagram,,,Boleto,39.9,bermuda-masc-praia-listrada,1,39.9,Bermuda Praia,listrada,G,Bermuda
-396,160,21/02/2021,21/02/2021,,aguardando pagamento,adwords,,,Boleto,179.9,calca-masc-jeans,1,179.9,Calca Jeans,jeans,M,Calça
-407,27,27/02/2021,27/02/2021,,aguardando pagamento,adwords,,,Boleto,139.9,calca-masc-marrom,1,139.9,Calça Lisa,marrom,G,Calça
+396,160,21/02/2021,21/02/2021,,aguardando pagamento,adwords,,,Boleto,179.9,calca-masc-jeans,1,179.9,Calca Jeans,jeans,M,Calca
+407,27,27/02/2021,27/02/2021,,aguardando pagamento,adwords,,,Boleto,139.9,calca-masc-marrom,1,139.9,Calca Lisa,marrom,G,Calca
 405,255,26/02/2021,26/02/2021,,aguardando pagamento,instagram,,,Boleto,129.9,camisa-masc-azul-escuro,1,129.9,Camisa Social,azul,M,Camisa
 404,113,25/02/2021,25/02/2021,,aguardando pagamento,organic,,,Boleto,139.9,camisa-masc-jeans,1,139.9,Camisa Social,jeans,G,Camisa
 406,35,26/02/2021,26/02/2021,,aguardando pagamento,organic,,,Boleto,139.9,camisa-masc-jeans,1,139.9,Camisa Social,jeans,P,Camisa
@@ -25,10 +25,10 @@ id_pedido,cliente_id,data_pedido,data_pagamento,data_envio,status,fonte_mkt,comm
 131,101,20/07/2020,20/07/2020,,cancelado,adwords,,,Boleto,79.9,bermuda-masc-preta-lisa,1,79.9,Bermuda Preta,preta,P,Bermuda
 197,207,22/09/2020,22/09/2020,,cancelado,outros,,,Boleto,159.8,bermuda-masc-preta-lisa,2,79.9,Bermuda Preta,preta,M,Bermuda
 216,142,12/10/2020,12/10/2020,,cancelado,organic,,,Boleto,79.8,bermuda-masc-preta-lisa,2,39.9,Bermuda Preta,preta,P,Bermuda
-101,257,08/06/2020,08/06/2020,,cancelado,outros,,,Boleto,119.9,calca-masc-branca,1,119.9,Calça Branca,branca,G,Calça
-63,100,08/05/2020,08/05/2020,,cancelado,adwords,,,Cartão de crédito,119.9,calca-masc-marrom,1,119.9,Calça Lisa,marrom,M,Calça
-97,149,06/06/2020,06/06/2020,,cancelado,instagram,,,Boleto,89.9,calca-masc-marrom,1,89.9,Calça Lisa,marrom,M,Calça
-168,28,21/08/2020,21/08/2020,,cancelado,outros,,,Boleto,89.9,calca-masc-marrom,1,89.9,Calça Lisa,marrom,M,Calça
+101,257,08/06/2020,08/06/2020,,cancelado,outros,,,Boleto,119.9,calca-masc-branca,1,119.9,Calca Branca,branca,G,Calca
+63,100,08/05/2020,08/05/2020,,cancelado,adwords,,,Cartão de crédito,119.9,calca-masc-marrom,1,119.9,Calca Lisa,marrom,M,Calca
+97,149,06/06/2020,06/06/2020,,cancelado,instagram,,,Boleto,89.9,calca-masc-marrom,1,89.9,Calca Lisa,marrom,M,Calca
+168,28,21/08/2020,21/08/2020,,cancelado,outros,,,Boleto,89.9,calca-masc-marrom,1,89.9,Calca Lisa,marrom,M,Calca
 97,149,06/06/2020,06/06/2020,,cancelado,instagram,,,Boleto,99.9,camisa-masc-branca,1,99.9,Camisa Social,branca,M,Camisa
 147,170,04/08/2020,04/08/2020,,cancelado,organic,,,Boleto,99.9,camisa-masc-branca,1,99.9,Camisa Social,branca,G,Camisa
 348,167,13/01/2021,13/01/2021,,cancelado,instagram,,,Boleto,139.9,camisa-masc-jeans,1,139.9,Camisa Social,jeans,M,Camisa
@@ -155,113 +155,113 @@ id_pedido,cliente_id,data_pedido,data_pagamento,data_envio,status,fonte_mkt,comm
 225,5,21/10/2020,25/10/2020,27/10/2020,concluido,outros,,nf333/2020,Boleto,79.9,bermuda-masc-preta-lisa,1,79.9,Bermuda Preta,preta,G,Bermuda
 113,189,25/06/2020,25/06/2020,27/06/2020,concluido,instagram,,nf186/2020,Cartão de crédito,39.9,bermuda-masc-preta-lisa,1,39.9,Bermuda Preta,preta,G,Bermuda
 171,78,22/08/2020,22/08/2020,24/08/2020,concluido,instagram,,nf263/2020,Cartão de crédito,79.8,bermuda-masc-preta-lisa,2,39.9,Bermuda Preta,preta,G,Bermuda
-9,182,02/02/2020,03/02/2020,05/02/2020,concluido,instagram,,nf14/2020,Cartão de crédito,119.9,calca-masc-branca,1,119.9,Calça Branca,branca,P,Calça
-9,182,02/02/2020,03/02/2020,05/02/2020,concluido,instagram,,nf14/2020,Cartão de crédito,119.9,calca-masc-branca,1,119.9,Calça Branca,branca,G,Calça
-31,40,25/03/2020,27/03/2020,31/03/2020,concluido,organic,,nf40/2020,Pag Seguro,119.9,calca-masc-branca,1,119.9,Calça Branca,branca,P,Calça
-36,45,01/04/2020,03/04/2020,05/04/2020,concluido,organic,,nf45/2020,Boleto,119.9,calca-masc-branca,1,119.9,Calça Branca,branca,M,Calça
-50,43,23/04/2020,25/04/2020,27/04/2020,concluido,outros,,nf71/2020,Boleto,119.9,calca-masc-branca,1,119.9,Calça Branca,branca,G,Calça
-177,103,29/08/2020,02/09/2020,06/09/2020,concluido,adwords,,nf273/2020,Boleto,119.9,calca-masc-branca,1,119.9,Calça Branca,branca,G,Calça
-200,274,01/10/2020,01/10/2020,03/10/2020,concluido,organic,,nf301/2020,Pag Seguro,119.9,calca-masc-branca,1,119.9,Calça Branca,branca,M,Calça
-254,21,14/11/2020,18/11/2020,19/11/2020,concluido,instagram,,nf362/2020,Boleto,59.9,calca-masc-branca,1,59.9,Calça Branca,branca,M,Calça
-273,129,25/11/2020,29/11/2020,30/11/2020,concluido,outros,,nf386/2020,Boleto,59.9,calca-masc-branca,1,59.9,Calça Branca,branca,M,Calça
-276,62,25/11/2020,29/11/2020,03/12/2020,concluido,outros,,nf389/2020,Boleto,119.8,calca-masc-branca,2,59.9,Calça Branca,branca,M,Calça
-282,250,25/11/2020,29/11/2020,01/12/2020,concluido,outros,,nf395/2020,Boleto,59.9,calca-masc-branca,1,59.9,Calça Branca,branca,M,Calça
-285,70,25/11/2020,29/11/2020,01/12/2020,concluido,adwords,,nf398/2020,Boleto,59.9,calca-masc-branca,1,59.9,Calça Branca,branca,M,Calça
-290,152,25/11/2020,29/11/2020,01/12/2020,concluido,outros,,nf403/2020,Boleto,59.9,calca-masc-branca,1,59.9,Calça Branca,branca,M,Calça
-299,158,25/11/2020,29/11/2020,01/12/2020,concluido,instagram,,nf412/2020,Boleto,59.9,calca-masc-branca,1,59.9,Calça Branca,branca,G,Calça
-303,171,30/11/2020,04/12/2020,06/12/2020,concluido,instagram,,nf416/2020,Boleto,59.9,calca-masc-branca,1,59.9,Calça Branca,branca,P,Calça
-314,38,02/12/2020,06/12/2020,09/12/2020,concluido,adwords,,nf432/2020,Boleto,59.9,calca-masc-branca,1,59.9,Calça Branca,branca,G,Calça
-95,254,06/06/2020,10/06/2020,12/06/2020,concluido,outros,,nf157/2020,Boleto,179.8,calca-masc-branca,2,89.9,Calça Branca,branca,G,Calça
-115,111,09/07/2020,13/07/2020,14/07/2020,concluido,instagram,,nf188/2020,Boleto,89.9,calca-masc-branca,1,89.9,Calça Branca,branca,P,Calça
-142,61,31/07/2020,31/07/2020,02/08/2020,concluido,organic,,nf226/2020,Pag Seguro,89.9,calca-masc-branca,1,89.9,Calça Branca,branca,M,Calça
-222,130,13/10/2020,13/10/2020,15/10/2020,concluido,organic,,nf326/2020,Pag Seguro,89.9,calca-masc-branca,1,89.9,Calça Branca,branca,M,Calça
-105,215,11/06/2020,15/06/2020,19/06/2020,concluido,instagram,,nf174/2020,Boleto,89.9,calca-masc-branca,1,89.9,Calça Branca,branca,M,Calça
-121,193,13/07/2020,13/07/2020,17/07/2020,concluido,adwords,,nf197/2020,Cartão de crédito,89.9,calca-masc-branca,1,89.9,Calça Branca,branca,G,Calça
-183,9,02/09/2020,02/09/2020,04/09/2020,concluido,organic,,nf284/2020,Pag Seguro,89.9,calca-masc-branca,1,89.9,Calça Branca,branca,G,Calça
-349,116,13/01/2021,17/01/2021,19/01/2021,concluido,adwords,,nf478/2021,Boleto,179.9,calca-masc-jeans,1,179.9,Calca Jeans,jeans,G,Calça
-354,149,19/01/2021,19/01/2021,20/01/2021,concluido,organic,,nf501/2021,Pag Seguro,179.9,calca-masc-jeans,1,179.9,Calca Jeans,jeans,P,Calça
-359,137,20/01/2021,24/01/2021,26/01/2021,concluido,adwords,,nf506/2021,Boleto,179.9,calca-masc-jeans,1,179.9,Calca Jeans,jeans,M,Calça
-369,169,29/01/2021,29/01/2021,31/01/2021,concluido,adwords,,nf532/2021,Cartão de crédito,179.9,calca-masc-jeans,1,179.9,Calca Jeans,jeans,M,Calça
-382,185,08/02/2021,12/02/2021,14/02/2021,concluido,instagram,,nf561/2021,Boleto,179.9,calca-masc-jeans,1,179.9,Calca Jeans,jeans,P,Calça
-384,7,09/02/2021,09/02/2021,12/02/2021,concluido,organic,,nf563/2021,Pag Seguro,179.9,calca-masc-jeans,1,179.9,Calca Jeans,jeans,P,Calça
-389,76,11/02/2021,15/02/2021,17/02/2021,concluido,outros,,nf568/2021,Boleto,179.9,calca-masc-jeans,1,179.9,Calca Jeans,jeans,M,Calça
-19,79,09/03/2020,10/03/2020,13/03/2020,concluido,organic,,nf24/2020,Boleto,89.9,calca-masc-marrom,1,89.9,Calça Lisa,marrom,G,Calça
-34,202,31/03/2020,02/04/2020,04/04/2020,concluido,instagram,,nf43/2020,Cartão de crédito,89.9,calca-masc-marrom,1,89.9,Calça Lisa,marrom,M,Calça
-41,89,08/04/2020,10/04/2020,12/04/2020,concluido,outros,,nf62/2020,Boleto,119.9,calca-masc-marrom,1,119.9,Calça Lisa,marrom,M,Calça
-52,210,24/04/2020,26/04/2020,27/04/2020,concluido,organic,,nf73/2020,Pag Seguro,89.9,calca-masc-marrom,1,89.9,Calça Lisa,marrom,P,Calça
-56,191,29/04/2020,01/05/2020,05/05/2020,concluido,instagram,,nf95/2020,Boleto,89.9,calca-masc-marrom,1,89.9,Calça Lisa,marrom,PP,Calça
-62,270,07/05/2020,11/05/2020,13/05/2020,concluido,instagram,,nf107/2020,Boleto,119.9,calca-masc-marrom,1,119.9,Calça Lisa,marrom,M,Calça
-73,179,15/05/2020,15/05/2020,18/05/2020,concluido,instagram,,nf118/2020,Cartão de crédito,119.9,calca-masc-marrom,1,119.9,Calça Lisa,marrom,G,Calça
-80,258,19/05/2020,23/05/2020,26/05/2020,concluido,outros,,nf132/2020,Boleto,119.9,calca-masc-marrom,1,119.9,Calça Lisa,marrom,M,Calça
-81,14,19/05/2020,23/05/2020,27/05/2020,concluido,organic,,nf133/2020,Boleto,119.9,calca-masc-marrom,1,119.9,Calça Lisa,marrom,M,Calça
-84,186,24/05/2020,28/05/2020,01/06/2020,concluido,organic,,nf141/2020,Boleto,89.9,calca-masc-marrom,1,89.9,Calça Lisa,marrom,M,Calça
-86,139,26/05/2020,26/05/2020,29/05/2020,concluido,instagram,,nf145/2020,Cartão de crédito,89.9,calca-masc-marrom,1,89.9,Calça Lisa,marrom,PP,Calça
-89,169,26/05/2020,30/05/2020,01/06/2020,concluido,instagram,,nf151/2020,Boleto,119.9,calca-masc-marrom,1,119.9,Calça Lisa,marrom,M,Calça
-117,124,09/07/2020,09/07/2020,11/07/2020,concluido,instagram,,nf190/2020,Cartão de crédito,89.9,calca-masc-marrom,1,89.9,Calça Lisa,marrom,PP,Calça
-134,241,22/07/2020,26/07/2020,29/07/2020,concluido,instagram,,nf213/2020,Boleto,89.9,calca-masc-marrom,1,89.9,Calça Lisa,marrom,G,Calça
-138,269,26/07/2020,30/07/2020,01/08/2020,concluido,instagram,,nf222/2020,Boleto,89.9,calca-masc-marrom,1,89.9,Calça Lisa,marrom,PP,Calça
-167,30,21/08/2020,25/08/2020,27/08/2020,concluido,instagram,,nf259/2020,Boleto,99.9,calca-masc-marrom,1,99.9,Calça Lisa,marrom,M,Calça
-176,12,29/08/2020,02/09/2020,05/09/2020,concluido,organic,,nf272/2020,Boleto,99.9,calca-masc-marrom,1,99.9,Calça Lisa,marrom,M,Calça
-180,198,02/09/2020,06/09/2020,08/09/2020,concluido,organic,,nf281/2020,Boleto,89.9,calca-masc-marrom,1,89.9,Calça Lisa,marrom,PP,Calça
-187,145,08/09/2020,12/09/2020,14/09/2020,concluido,instagram,,nf288/2020,Boleto,89.9,calca-masc-marrom,1,89.9,Calça Lisa,marrom,M,Calça
-196,210,22/09/2020,26/09/2020,29/09/2020,concluido,adwords,,nf297/2020,Boleto,99.9,calca-masc-marrom,1,99.9,Calça Lisa,marrom,M,Calça
-202,102,04/10/2020,08/10/2020,09/10/2020,concluido,organic,,nf303/2020,Boleto,99.9,calca-masc-marrom,1,99.9,Calça Lisa,marrom,M,Calça
-206,83,4/10/2020,08/10/2020,10/10/2020,concluido,organic,,nf307/2020,Boleto,89.9,calca-masc-marrom,1,89.9,Calça Lisa,marrom,M,Calça
-215,203,12/10/2020,12/10/2020,16/10/2020,concluido,instagram,,nf316/2020,Cartão de crédito,119.9,calca-masc-marrom,1,119.9,Calça Lisa,marrom,M,Calça
-229,161,23/10/2020,27/10/2020,29/10/2020,concluido,organic,,nf337/2020,Boleto,89.9,calca-masc-marrom,1,89.9,Calça Lisa,marrom,M,Calça
-233,100,01/11/2020,05/11/2020,07/11/2020,concluido,adwords,,nf341/2020,Boleto,89.9,calca-masc-marrom,1,89.9,Calça Lisa,marrom,G,Calça
-235,9,01/11/2020,01/11/2020,03/11/2020,concluido,instagram,,nf343/2020,Cartão de crédito,99.9,calca-masc-marrom,1,99.9,Calça Lisa,marrom,M,Calça
-247,4,09/11/2020,09/11/2020,11/11/2020,concluido,instagram,,nf355/2020,Cartão de crédito,69.9,calca-masc-marrom,1,69.9,Calça Lisa,marrom,M,Calça
-249,215,14/11/2020,14/11/2020,16/11/2020,concluido,organic,,nf357/2020,Pag Seguro,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,M,Calça
-255,8,14/11/2020,18/11/2020,20/11/2020,concluido,adwords,,nf363/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,M,Calça
-270,66,22/11/2020,26/11/2020,28/11/2020,concluido,instagram,,nf383/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,M,Calça
-271,130,22/11/2020,26/11/2020,28/11/2020,concluido,organic,,nf384/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,M,Calça
-280,64,25/11/2020,29/11/2020,03/12/2020,concluido,instagram,,nf393/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,P,Calça
-280,64,25/11/2020,29/11/2020,03/12/2020,concluido,instagram,,nf393/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,M,Calça
-294,20,25/11/2020,29/11/2020,01/12/2020,concluido,adwords,,nf407/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,M,Calça
-294,20,25/11/2020,29/11/2020,01/12/2020,concluido,adwords,,nf407/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,P,Calça
-299,158,25/11/2020,29/11/2020,01/12/2020,concluido,instagram,,nf412/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,P,Calça
-304,105,30/11/2020,04/12/2020,06/12/2020,concluido,organic,,nf417/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,M,Calça
-316,119,02/12/2020,06/12/2020,10/12/2020,concluido,instagram,,nf434/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,M,Calça
-322,76,05/12/2020,09/12/2020,12/12/2020,concluido,organic,,nf440/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,M,Calça
-329,153,08/12/2020,12/12/2020,14/12/2020,concluido,instagram,,nf449/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,M,Calça
-332,182,17/12/2020,21/12/2020,23/12/2020,concluido,organic,,nf456/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,P,Calça
-334,270,19/12/2020,23/12/2020,24/12/2020,concluido,outros,,nf458/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,G,Calça
-338,199,21/12/2020,25/12/2020,27/12/2020,concluido,instagram,,nf462/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,M,Calça
-339,272,29/12/2020,02/01/2021,04/01/2021,concluido,adwords,,nf463/2020,Boleto,139.9,calca-masc-marrom,1,139.9,Calça Lisa,marrom,M,Calça
-354,149,19/01/2021,19/01/2021,20/01/2021,concluido,organic,,nf501/2021,Pag Seguro,139.9,calca-masc-marrom,1,139.9,Calça Lisa,marrom,M,Calça
-374,224,31/01/2021,04/02/2021,05/02/2021,concluido,instagram,,nf537/2021,Boleto,139.9,calca-masc-marrom,1,139.9,Calça Lisa,marrom,G,Calça
-395,99,21/02/2021,25/02/2021,01/03/2021,concluido,instagram,,nf574/2021,Boleto,139.9,calca-masc-marrom,1,139.9,Calça Lisa,marrom,G,Calça
-116,158,09/07/2020,13/07/2020,15/07/2020,concluido,instagram,,nf189/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,P,Calça
-119,3,10/07/2020,14/07/2020,16/07/2020,concluido,adwords,,nf195/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,M,Calça
-190,155,13/09/2020,13/09/2020,15/09/2020,concluido,instagram,,nf291/2020,Cartão de crédito,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,M,Calça
-206,83,4/10/2020,08/10/2020,10/10/2020,concluido,organic,,nf307/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,G,Calça
-225,5,21/10/2020,25/10/2020,27/10/2020,concluido,outros,,nf333/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calça Lisa,marrom,P,Calça
-25,247,16/03/2020,18/03/2020,22/03/2020,concluido,instagram,,nf33/2020,Cartão de crédito,239.8,calca-masc-preta,2,119.9,Calça Preta,preta,P,Calça
-26,154,16/03/2020,18/03/2020,20/03/2020,concluido,adwords,,nf34/2020,Cartão de crédito,119.9,calca-masc-preta,1,119.9,Calça Preta,preta,P,Calça
-26,154,16/03/2020,18/03/2020,20/03/2020,concluido,adwords,,nf34/2020,Cartão de crédito,119.9,calca-masc-preta,1,119.9,Calça Preta,preta,M,Calça
-42,150,16/04/2020,18/04/2020,20/04/2020,concluido,instagram,,nf63/2020,Boleto,119.9,calca-masc-preta,1,119.9,Calça Preta,preta,M,Calça
-44,235,20/04/2020,22/04/2020,24/04/2020,concluido,adwords,,nf65/2020,Boleto,119.9,calca-masc-preta,1,119.9,Calça Preta,preta,M,Calça
-48,159,21/04/2020,23/04/2020,25/04/2020,concluido,organic,,nf69/2020,Boleto,119.9,calca-masc-preta,1,119.9,Calça Preta,preta,M,Calça
-60,180,03/05/2020,07/05/2020,09/05/2020,concluido,outros,,nf99/2020,Boleto,119.9,calca-masc-preta,1,119.9,Calça Preta,preta,G,Calça
-64,189,08/05/2020,08/05/2020,12/05/2020,concluido,instagram,,nf109/2020,Cartão de crédito,119.9,calca-masc-preta,1,119.9,Calça Preta,preta,G,Calça
-69,128,13/05/2020,17/05/2020,18/05/2020,concluido,outros,,nf114/2020,Boleto,119.9,calca-masc-preta,1,119.9,Calça Preta,preta,G,Calça
-74,34,15/05/2020,19/05/2020,21/05/2020,concluido,organic,,nf126/2020,Boleto,119.9,calca-masc-preta,1,119.9,Calça Preta,preta,G,Calça
-78,225,16/05/2020,20/05/2020,22/05/2020,concluido,outros,,nf130/2020,Boleto,119.9,calca-masc-preta,1,119.9,Calça Preta,preta,G,Calça
-90,116,04/06/2020,08/06/2020,11/06/2020,concluido,organic,,nf152/2020,Boleto,119.9,calca-masc-preta,1,119.9,Calça Lisa,marrom,M,Calça
-104,144,11/06/2020,15/06/2020,16/06/2020,concluido,organic,,nf173/2020,Boleto,119.9,calca-masc-preta,1,119.9,Calça Preta,preta,M,Calça
-152,251,04/08/2020,04/08/2020,06/08/2020,concluido,organic,,nf236/2020,Pag Seguro,119.9,calca-masc-preta,1,119.9,Calça Preta,preta,M,Calça
-157,117,12/08/2020,16/08/2020,18/08/2020,concluido,instagram,,nf241/2020,Boleto,119.9,calca-masc-preta,1,119.9,Calça Preta,preta,M,Calça
-162,7,19/08/2020,23/08/2020,25/08/2020,concluido,instagram,,nf252/2020,Boleto,119.9,calca-masc-preta,1,119.9,Calça Preta,preta,M,Calça
-185,2,02/09/2020,06/09/2020,08/09/2020,concluido,instagram,,nf286/2020,Boleto,119.9,calca-masc-preta,1,119.9,Calça Preta,preta,M,Calça
-237,202,02/11/2020,06/11/2020,10/11/2020,concluido,adwords,,nf345/2020,Boleto,79.9,calca-masc-preta,1,79.9,Calça Preta,preta,M,Calça
-252,102,14/11/2020,18/11/2020,19/11/2020,concluido,organic,,nf360/2020,Boleto,79.9,calca-masc-preta,1,79.9,Calça Preta,preta,M,Calça
-262,218,16/11/2020,20/11/2020,21/11/2020,concluido,instagram,,nf375/2020,Boleto,79.9,calca-masc-preta,1,79.9,Calça Preta,preta,M,Calça
-264,26,16/11/2020,20/11/2020,23/11/2020,concluido,adwords,,nf377/2020,Boleto,79.9,calca-masc-preta,1,79.9,Calça Preta,preta,M,Calça
-265,217,16/11/2020,20/11/2020,22/11/2020,concluido,outros,,nf378/2020,Boleto,79.9,calca-masc-preta,1,79.9,Calça Preta,preta,M,Calça
-266,189,22/11/2020,22/11/2020,24/11/2020,concluido,adwords,,nf379/2020,Cartão de crédito,79.9,calca-masc-preta,1,79.9,Calça Preta,preta,M,Calça
-269,138,22/11/2020,26/11/2020,30/11/2020,concluido,instagram,,nf382/2020,Boleto,79.9,calca-masc-preta,1,79.9,Calça Preta,preta,M,Calça
-283,222,25/11/2020,29/11/2020,01/12/2020,concluido,instagram,,nf396/2020,Boleto,79.9,calca-masc-preta,1,79.9,Calça Preta,preta,M,Calça
+9,182,02/02/2020,03/02/2020,05/02/2020,concluido,instagram,,nf14/2020,Cartão de crédito,119.9,calca-masc-branca,1,119.9,Calca Branca,branca,P,Calca
+9,182,02/02/2020,03/02/2020,05/02/2020,concluido,instagram,,nf14/2020,Cartão de crédito,119.9,calca-masc-branca,1,119.9,Calca Branca,branca,G,Calca
+31,40,25/03/2020,27/03/2020,31/03/2020,concluido,organic,,nf40/2020,Pag Seguro,119.9,calca-masc-branca,1,119.9,Calca Branca,branca,P,Calca
+36,45,01/04/2020,03/04/2020,05/04/2020,concluido,organic,,nf45/2020,Boleto,119.9,calca-masc-branca,1,119.9,Calca Branca,branca,M,Calca
+50,43,23/04/2020,25/04/2020,27/04/2020,concluido,outros,,nf71/2020,Boleto,119.9,calca-masc-branca,1,119.9,Calca Branca,branca,G,Calca
+177,103,29/08/2020,02/09/2020,06/09/2020,concluido,adwords,,nf273/2020,Boleto,119.9,calca-masc-branca,1,119.9,Calca Branca,branca,G,Calca
+200,274,01/10/2020,01/10/2020,03/10/2020,concluido,organic,,nf301/2020,Pag Seguro,119.9,calca-masc-branca,1,119.9,Calca Branca,branca,M,Calca
+254,21,14/11/2020,18/11/2020,19/11/2020,concluido,instagram,,nf362/2020,Boleto,59.9,calca-masc-branca,1,59.9,Calca Branca,branca,M,Calca
+273,129,25/11/2020,29/11/2020,30/11/2020,concluido,outros,,nf386/2020,Boleto,59.9,calca-masc-branca,1,59.9,Calca Branca,branca,M,Calca
+276,62,25/11/2020,29/11/2020,03/12/2020,concluido,outros,,nf389/2020,Boleto,119.8,calca-masc-branca,2,59.9,Calca Branca,branca,M,Calca
+282,250,25/11/2020,29/11/2020,01/12/2020,concluido,outros,,nf395/2020,Boleto,59.9,calca-masc-branca,1,59.9,Calca Branca,branca,M,Calca
+285,70,25/11/2020,29/11/2020,01/12/2020,concluido,adwords,,nf398/2020,Boleto,59.9,calca-masc-branca,1,59.9,Calca Branca,branca,M,Calca
+290,152,25/11/2020,29/11/2020,01/12/2020,concluido,outros,,nf403/2020,Boleto,59.9,calca-masc-branca,1,59.9,Calca Branca,branca,M,Calca
+299,158,25/11/2020,29/11/2020,01/12/2020,concluido,instagram,,nf412/2020,Boleto,59.9,calca-masc-branca,1,59.9,Calca Branca,branca,G,Calca
+303,171,30/11/2020,04/12/2020,06/12/2020,concluido,instagram,,nf416/2020,Boleto,59.9,calca-masc-branca,1,59.9,Calca Branca,branca,P,Calca
+314,38,02/12/2020,06/12/2020,09/12/2020,concluido,adwords,,nf432/2020,Boleto,59.9,calca-masc-branca,1,59.9,Calca Branca,branca,G,Calca
+95,254,06/06/2020,10/06/2020,12/06/2020,concluido,outros,,nf157/2020,Boleto,179.8,calca-masc-branca,2,89.9,Calca Branca,branca,G,Calca
+115,111,09/07/2020,13/07/2020,14/07/2020,concluido,instagram,,nf188/2020,Boleto,89.9,calca-masc-branca,1,89.9,Calca Branca,branca,P,Calca
+142,61,31/07/2020,31/07/2020,02/08/2020,concluido,organic,,nf226/2020,Pag Seguro,89.9,calca-masc-branca,1,89.9,Calca Branca,branca,M,Calca
+222,130,13/10/2020,13/10/2020,15/10/2020,concluido,organic,,nf326/2020,Pag Seguro,89.9,calca-masc-branca,1,89.9,Calca Branca,branca,M,Calca
+105,215,11/06/2020,15/06/2020,19/06/2020,concluido,instagram,,nf174/2020,Boleto,89.9,calca-masc-branca,1,89.9,Calca Branca,branca,M,Calca
+121,193,13/07/2020,13/07/2020,17/07/2020,concluido,adwords,,nf197/2020,Cartão de crédito,89.9,calca-masc-branca,1,89.9,Calca Branca,branca,G,Calca
+183,9,02/09/2020,02/09/2020,04/09/2020,concluido,organic,,nf284/2020,Pag Seguro,89.9,calca-masc-branca,1,89.9,Calca Branca,branca,G,Calca
+349,116,13/01/2021,17/01/2021,19/01/2021,concluido,adwords,,nf478/2021,Boleto,179.9,calca-masc-jeans,1,179.9,Calca Jeans,jeans,G,Calca
+354,149,19/01/2021,19/01/2021,20/01/2021,concluido,organic,,nf501/2021,Pag Seguro,179.9,calca-masc-jeans,1,179.9,Calca Jeans,jeans,P,Calca
+359,137,20/01/2021,24/01/2021,26/01/2021,concluido,adwords,,nf506/2021,Boleto,179.9,calca-masc-jeans,1,179.9,Calca Jeans,jeans,M,Calca
+369,169,29/01/2021,29/01/2021,31/01/2021,concluido,adwords,,nf532/2021,Cartão de crédito,179.9,calca-masc-jeans,1,179.9,Calca Jeans,jeans,M,Calca
+382,185,08/02/2021,12/02/2021,14/02/2021,concluido,instagram,,nf561/2021,Boleto,179.9,calca-masc-jeans,1,179.9,Calca Jeans,jeans,P,Calca
+384,7,09/02/2021,09/02/2021,12/02/2021,concluido,organic,,nf563/2021,Pag Seguro,179.9,calca-masc-jeans,1,179.9,Calca Jeans,jeans,P,Calca
+389,76,11/02/2021,15/02/2021,17/02/2021,concluido,outros,,nf568/2021,Boleto,179.9,calca-masc-jeans,1,179.9,Calca Jeans,jeans,M,Calca
+19,79,09/03/2020,10/03/2020,13/03/2020,concluido,organic,,nf24/2020,Boleto,89.9,calca-masc-marrom,1,89.9,Calca Lisa,marrom,G,Calca
+34,202,31/03/2020,02/04/2020,04/04/2020,concluido,instagram,,nf43/2020,Cartão de crédito,89.9,calca-masc-marrom,1,89.9,Calca Lisa,marrom,M,Calca
+41,89,08/04/2020,10/04/2020,12/04/2020,concluido,outros,,nf62/2020,Boleto,119.9,calca-masc-marrom,1,119.9,Calca Lisa,marrom,M,Calca
+52,210,24/04/2020,26/04/2020,27/04/2020,concluido,organic,,nf73/2020,Pag Seguro,89.9,calca-masc-marrom,1,89.9,Calca Lisa,marrom,P,Calca
+56,191,29/04/2020,01/05/2020,05/05/2020,concluido,instagram,,nf95/2020,Boleto,89.9,calca-masc-marrom,1,89.9,Calca Lisa,marrom,PP,Calca
+62,270,07/05/2020,11/05/2020,13/05/2020,concluido,instagram,,nf107/2020,Boleto,119.9,calca-masc-marrom,1,119.9,Calca Lisa,marrom,M,Calca
+73,179,15/05/2020,15/05/2020,18/05/2020,concluido,instagram,,nf118/2020,Cartão de crédito,119.9,calca-masc-marrom,1,119.9,Calca Lisa,marrom,G,Calca
+80,258,19/05/2020,23/05/2020,26/05/2020,concluido,outros,,nf132/2020,Boleto,119.9,calca-masc-marrom,1,119.9,Calca Lisa,marrom,M,Calca
+81,14,19/05/2020,23/05/2020,27/05/2020,concluido,organic,,nf133/2020,Boleto,119.9,calca-masc-marrom,1,119.9,Calca Lisa,marrom,M,Calca
+84,186,24/05/2020,28/05/2020,01/06/2020,concluido,organic,,nf141/2020,Boleto,89.9,calca-masc-marrom,1,89.9,Calca Lisa,marrom,M,Calca
+86,139,26/05/2020,26/05/2020,29/05/2020,concluido,instagram,,nf145/2020,Cartão de crédito,89.9,calca-masc-marrom,1,89.9,Calca Lisa,marrom,PP,Calca
+89,169,26/05/2020,30/05/2020,01/06/2020,concluido,instagram,,nf151/2020,Boleto,119.9,calca-masc-marrom,1,119.9,Calca Lisa,marrom,M,Calca
+117,124,09/07/2020,09/07/2020,11/07/2020,concluido,instagram,,nf190/2020,Cartão de crédito,89.9,calca-masc-marrom,1,89.9,Calca Lisa,marrom,PP,Calca
+134,241,22/07/2020,26/07/2020,29/07/2020,concluido,instagram,,nf213/2020,Boleto,89.9,calca-masc-marrom,1,89.9,Calca Lisa,marrom,G,Calca
+138,269,26/07/2020,30/07/2020,01/08/2020,concluido,instagram,,nf222/2020,Boleto,89.9,calca-masc-marrom,1,89.9,Calca Lisa,marrom,PP,Calca
+167,30,21/08/2020,25/08/2020,27/08/2020,concluido,instagram,,nf259/2020,Boleto,99.9,calca-masc-marrom,1,99.9,Calca Lisa,marrom,M,Calca
+176,12,29/08/2020,02/09/2020,05/09/2020,concluido,organic,,nf272/2020,Boleto,99.9,calca-masc-marrom,1,99.9,Calca Lisa,marrom,M,Calca
+180,198,02/09/2020,06/09/2020,08/09/2020,concluido,organic,,nf281/2020,Boleto,89.9,calca-masc-marrom,1,89.9,Calca Lisa,marrom,PP,Calca
+187,145,08/09/2020,12/09/2020,14/09/2020,concluido,instagram,,nf288/2020,Boleto,89.9,calca-masc-marrom,1,89.9,Calca Lisa,marrom,M,Calca
+196,210,22/09/2020,26/09/2020,29/09/2020,concluido,adwords,,nf297/2020,Boleto,99.9,calca-masc-marrom,1,99.9,Calca Lisa,marrom,M,Calca
+202,102,04/10/2020,08/10/2020,09/10/2020,concluido,organic,,nf303/2020,Boleto,99.9,calca-masc-marrom,1,99.9,Calca Lisa,marrom,M,Calca
+206,83,4/10/2020,08/10/2020,10/10/2020,concluido,organic,,nf307/2020,Boleto,89.9,calca-masc-marrom,1,89.9,Calca Lisa,marrom,M,Calca
+215,203,12/10/2020,12/10/2020,16/10/2020,concluido,instagram,,nf316/2020,Cartão de crédito,119.9,calca-masc-marrom,1,119.9,Calca Lisa,marrom,M,Calca
+229,161,23/10/2020,27/10/2020,29/10/2020,concluido,organic,,nf337/2020,Boleto,89.9,calca-masc-marrom,1,89.9,Calca Lisa,marrom,M,Calca
+233,100,01/11/2020,05/11/2020,07/11/2020,concluido,adwords,,nf341/2020,Boleto,89.9,calca-masc-marrom,1,89.9,Calca Lisa,marrom,G,Calca
+235,9,01/11/2020,01/11/2020,03/11/2020,concluido,instagram,,nf343/2020,Cartão de crédito,99.9,calca-masc-marrom,1,99.9,Calca Lisa,marrom,M,Calca
+247,4,09/11/2020,09/11/2020,11/11/2020,concluido,instagram,,nf355/2020,Cartão de crédito,69.9,calca-masc-marrom,1,69.9,Calca Lisa,marrom,M,Calca
+249,215,14/11/2020,14/11/2020,16/11/2020,concluido,organic,,nf357/2020,Pag Seguro,79.9,calca-masc-marrom,1,79.9,Calca Lisa,marrom,M,Calca
+255,8,14/11/2020,18/11/2020,20/11/2020,concluido,adwords,,nf363/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calca Lisa,marrom,M,Calca
+270,66,22/11/2020,26/11/2020,28/11/2020,concluido,instagram,,nf383/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calca Lisa,marrom,M,Calca
+271,130,22/11/2020,26/11/2020,28/11/2020,concluido,organic,,nf384/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calca Lisa,marrom,M,Calca
+280,64,25/11/2020,29/11/2020,03/12/2020,concluido,instagram,,nf393/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calca Lisa,marrom,P,Calca
+280,64,25/11/2020,29/11/2020,03/12/2020,concluido,instagram,,nf393/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calca Lisa,marrom,M,Calca
+294,20,25/11/2020,29/11/2020,01/12/2020,concluido,adwords,,nf407/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calca Lisa,marrom,M,Calca
+294,20,25/11/2020,29/11/2020,01/12/2020,concluido,adwords,,nf407/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calca Lisa,marrom,P,Calca
+299,158,25/11/2020,29/11/2020,01/12/2020,concluido,instagram,,nf412/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calca Lisa,marrom,P,Calca
+304,105,30/11/2020,04/12/2020,06/12/2020,concluido,organic,,nf417/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calca Lisa,marrom,M,Calca
+316,119,02/12/2020,06/12/2020,10/12/2020,concluido,instagram,,nf434/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calca Lisa,marrom,M,Calca
+322,76,05/12/2020,09/12/2020,12/12/2020,concluido,organic,,nf440/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calca Lisa,marrom,M,Calca
+329,153,08/12/2020,12/12/2020,14/12/2020,concluido,instagram,,nf449/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calca Lisa,marrom,M,Calca
+332,182,17/12/2020,21/12/2020,23/12/2020,concluido,organic,,nf456/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calca Lisa,marrom,P,Calca
+334,270,19/12/2020,23/12/2020,24/12/2020,concluido,outros,,nf458/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calca Lisa,marrom,G,Calca
+338,199,21/12/2020,25/12/2020,27/12/2020,concluido,instagram,,nf462/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calca Lisa,marrom,M,Calca
+339,272,29/12/2020,02/01/2021,04/01/2021,concluido,adwords,,nf463/2020,Boleto,139.9,calca-masc-marrom,1,139.9,Calca Lisa,marrom,M,Calca
+354,149,19/01/2021,19/01/2021,20/01/2021,concluido,organic,,nf501/2021,Pag Seguro,139.9,calca-masc-marrom,1,139.9,Calca Lisa,marrom,M,Calca
+374,224,31/01/2021,04/02/2021,05/02/2021,concluido,instagram,,nf537/2021,Boleto,139.9,calca-masc-marrom,1,139.9,Calca Lisa,marrom,G,Calca
+395,99,21/02/2021,25/02/2021,01/03/2021,concluido,instagram,,nf574/2021,Boleto,139.9,calca-masc-marrom,1,139.9,Calca Lisa,marrom,G,Calca
+116,158,09/07/2020,13/07/2020,15/07/2020,concluido,instagram,,nf189/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calca Lisa,marrom,P,Calca
+119,3,10/07/2020,14/07/2020,16/07/2020,concluido,adwords,,nf195/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calca Lisa,marrom,M,Calca
+190,155,13/09/2020,13/09/2020,15/09/2020,concluido,instagram,,nf291/2020,Cartão de crédito,79.9,calca-masc-marrom,1,79.9,Calca Lisa,marrom,M,Calca
+206,83,4/10/2020,08/10/2020,10/10/2020,concluido,organic,,nf307/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calca Lisa,marrom,G,Calca
+225,5,21/10/2020,25/10/2020,27/10/2020,concluido,outros,,nf333/2020,Boleto,79.9,calca-masc-marrom,1,79.9,Calca Lisa,marrom,P,Calca
+25,247,16/03/2020,18/03/2020,22/03/2020,concluido,instagram,,nf33/2020,Cartão de crédito,239.8,calca-masc-preta,2,119.9,Calca Preta,preta,P,Calca
+26,154,16/03/2020,18/03/2020,20/03/2020,concluido,adwords,,nf34/2020,Cartão de crédito,119.9,calca-masc-preta,1,119.9,Calca Preta,preta,P,Calca
+26,154,16/03/2020,18/03/2020,20/03/2020,concluido,adwords,,nf34/2020,Cartão de crédito,119.9,calca-masc-preta,1,119.9,Calca Preta,preta,M,Calca
+42,150,16/04/2020,18/04/2020,20/04/2020,concluido,instagram,,nf63/2020,Boleto,119.9,calca-masc-preta,1,119.9,Calca Preta,preta,M,Calca
+44,235,20/04/2020,22/04/2020,24/04/2020,concluido,adwords,,nf65/2020,Boleto,119.9,calca-masc-preta,1,119.9,Calca Preta,preta,M,Calca
+48,159,21/04/2020,23/04/2020,25/04/2020,concluido,organic,,nf69/2020,Boleto,119.9,calca-masc-preta,1,119.9,Calca Preta,preta,M,Calca
+60,180,03/05/2020,07/05/2020,09/05/2020,concluido,outros,,nf99/2020,Boleto,119.9,calca-masc-preta,1,119.9,Calca Preta,preta,G,Calca
+64,189,08/05/2020,08/05/2020,12/05/2020,concluido,instagram,,nf109/2020,Cartão de crédito,119.9,calca-masc-preta,1,119.9,Calca Preta,preta,G,Calca
+69,128,13/05/2020,17/05/2020,18/05/2020,concluido,outros,,nf114/2020,Boleto,119.9,calca-masc-preta,1,119.9,Calca Preta,preta,G,Calca
+74,34,15/05/2020,19/05/2020,21/05/2020,concluido,organic,,nf126/2020,Boleto,119.9,calca-masc-preta,1,119.9,Calca Preta,preta,G,Calca
+78,225,16/05/2020,20/05/2020,22/05/2020,concluido,outros,,nf130/2020,Boleto,119.9,calca-masc-preta,1,119.9,Calca Preta,preta,G,Calca
+90,116,04/06/2020,08/06/2020,11/06/2020,concluido,organic,,nf152/2020,Boleto,119.9,calca-masc-preta,1,119.9,Calca Lisa,marrom,M,Calca
+104,144,11/06/2020,15/06/2020,16/06/2020,concluido,organic,,nf173/2020,Boleto,119.9,calca-masc-preta,1,119.9,Calca Preta,preta,M,Calca
+152,251,04/08/2020,04/08/2020,06/08/2020,concluido,organic,,nf236/2020,Pag Seguro,119.9,calca-masc-preta,1,119.9,Calca Preta,preta,M,Calca
+157,117,12/08/2020,16/08/2020,18/08/2020,concluido,instagram,,nf241/2020,Boleto,119.9,calca-masc-preta,1,119.9,Calca Preta,preta,M,Calca
+162,7,19/08/2020,23/08/2020,25/08/2020,concluido,instagram,,nf252/2020,Boleto,119.9,calca-masc-preta,1,119.9,Calca Preta,preta,M,Calca
+185,2,02/09/2020,06/09/2020,08/09/2020,concluido,instagram,,nf286/2020,Boleto,119.9,calca-masc-preta,1,119.9,Calca Preta,preta,M,Calca
+237,202,02/11/2020,06/11/2020,10/11/2020,concluido,adwords,,nf345/2020,Boleto,79.9,calca-masc-preta,1,79.9,Calca Preta,preta,M,Calca
+252,102,14/11/2020,18/11/2020,19/11/2020,concluido,organic,,nf360/2020,Boleto,79.9,calca-masc-preta,1,79.9,Calca Preta,preta,M,Calca
+262,218,16/11/2020,20/11/2020,21/11/2020,concluido,instagram,,nf375/2020,Boleto,79.9,calca-masc-preta,1,79.9,Calca Preta,preta,M,Calca
+264,26,16/11/2020,20/11/2020,23/11/2020,concluido,adwords,,nf377/2020,Boleto,79.9,calca-masc-preta,1,79.9,Calca Preta,preta,M,Calca
+265,217,16/11/2020,20/11/2020,22/11/2020,concluido,outros,,nf378/2020,Boleto,79.9,calca-masc-preta,1,79.9,Calca Preta,preta,M,Calca
+266,189,22/11/2020,22/11/2020,24/11/2020,concluido,adwords,,nf379/2020,Cartão de crédito,79.9,calca-masc-preta,1,79.9,Calca Preta,preta,M,Calca
+269,138,22/11/2020,26/11/2020,30/11/2020,concluido,instagram,,nf382/2020,Boleto,79.9,calca-masc-preta,1,79.9,Calca Preta,preta,M,Calca
+283,222,25/11/2020,29/11/2020,01/12/2020,concluido,instagram,,nf396/2020,Boleto,79.9,calca-masc-preta,1,79.9,Calca Preta,preta,M,Calca
 93,132,06/06/2020,10/06/2020,11/06/2020,concluido,instagram,,nf155/2020,Boleto,129.9,camisa-masc-azul-escuro,1,129.9,Camisa Social,azul,M,Camisa
 127,6,18/07/2020,18/07/2020,22/07/2020,concluido,organic,,nf203/2020,Pag Seguro,129.9,camisa-masc-azul-escuro,1,129.9,Camisa Social,azul,GG,Camisa
 159,262,16/08/2020,20/08/2020,23/08/2020,concluido,adwords,,nf243/2020,Boleto,129.9,camisa-masc-azul-escuro,1,129.9,Camisa Social,azul,M,Camisa

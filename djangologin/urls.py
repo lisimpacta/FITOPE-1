@@ -18,7 +18,7 @@ from django.urls import path, include
 from django.views.generic.base import TemplateView
 import djangologin.dash_app_code as dd
 import djangologin.outros as outros
-
+import djangologin.financeiro as financ
 
 urlpatterns = [
     path('admin/', admin.site.urls),
@@ -26,6 +26,7 @@ urlpatterns = [
     path('', TemplateView.as_view(template_name='index.html'), name='index'),
     path('vendas/', dd.graficos_vendas, name='vendas'),
     #path('vendas/', TemplateView.as_view(template_name='vendas.html'), name='vendas'),
+    #path('financeiro/', financ.graficos_financ, name='financeiro'),
     path('financeiro/', TemplateView.as_view(template_name='financeiro.html'), name='financeiro'),
     #path('markerting/', TemplateView.as_view(template_name='markerting.html'), name='markerting'),
     path('outros/', TemplateView.as_view(template_name='outros.html'), name='outros'),

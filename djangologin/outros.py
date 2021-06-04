@@ -17,7 +17,7 @@ import plotly.express as px
 global caixa1
 global caixa2
 
-app = DjangoDash('dash_integration_id')
+app = DjangoDash('dash_integration_outros')
 cli = ClienteOrigem.objects.all()
 
 ped = PedidoOrigem.objects.all()
@@ -32,12 +32,13 @@ df_pedido_2.sort_values(by='data_pagamento',inplace=True)
 df_pedido_2 = pd.merge(df_pedido_2,cliente,on='cliente_id',how='left')
 #info_cliente = info_cliente[['estado','valor']].groupby('estado').sum()
 
-#print(df_pedido_2)
+# print(df_pedido_2.groupby('meio_pagamento').sum()['valor'])
+# print(list(df_pedido_2.groupby('meio_pagamento').sum().index))
 caixa1 = make_subplots(rows=1,cols=2,specs=[[{"type": "bar"}, {"type": "pie"}]])
 caixa2 = make_subplots(rows=1,cols=2,specs=[[{"type": "xy"}, {"type": "pie"}]])
 
-caixa1.add_trace(go.Bar(x=['Rotulo 1', 'Rotulo 2'],y=[1,2],name="yaxis"), row=1,col=1)
-caixa1.add_trace(go.Pie(labels=['Rotulo 1', 'Rotulo 2'],values=[1,2],name="yaxis"), row=1,col=2)
+caixa1.add_trace(go.Bar(x=['Rótulo 1', 'Rótulo 2'],y=[1,2],name="yaxis"), row=1,col=1)
+caixa1.add_trace(go.Pie(labels=['Rótulo 1', 'Rótulo 2'],values=[1,2],name="yaxis"), row=1,col=2)
 caixa1.update_layout(height=150, autosize=True,margin=dict(autoexpand=False,
             l=50,
             r=0,
@@ -47,8 +48,8 @@ caixa1.update_layout(height=150, autosize=True,margin=dict(autoexpand=False,
         showlegend=False,
         plot_bgcolor='white')
 
-caixa2.add_trace(go.Scatter(x=['Rotulo 1', 'Rotulo 2','Rotulo3', 'Rotulo 4'],y=[1,4,3,5],name="yaxis"), row=1,col=1)
-caixa2.add_trace(go.Pie(labels=['Rotulo 1', 'Rotulo 2'],values=[1,2],name="yaxis",hole=.5), row=1,col=2)
+caixa2.add_trace(go.Scatter(x=['Rótulo 1', 'Rótulo 2','Rótulo3', 'Rótulo 4'],y=[1,4,3,5],name="yaxis"), row=1,col=1)
+caixa2.add_trace(go.Pie(labels=['Rótulo 1', 'Rótulo 2'],values=[1,2],name="yaxis",hole=.5), row=1,col=2)
 caixa2.update_layout(height=150, autosize=True,margin=dict(autoexpand=False,
             l=50,
             r=0,
@@ -147,10 +148,18 @@ app.layout = html.Div([
         graficos[1]
     ],style={'width': '49%', 'display': 'inline-block'}),
     html.Div([
+        
         graficos[2],
         graficos[3]
     ],style={'width': '49%', 'display': 'inline-block'})
 ])
+
+# @app.callback(dash.dependencies.Output('caixa-total1','children'),
+#              [dash.dependencies.Input('reset-eixos','n_clicks')])
+# def update(reset):
+#     print(dash.callback_context)
+#     if dash.callback_context.triggered[0]["prop_id"] == ".":
+#         raise dash.exceptions.PreventUpdate
 
 @app.callback(
     dash.dependencies.Output('caixa-total1', 'children'),
@@ -160,35 +169,37 @@ app.layout = html.Div([
     dash.dependencies.State('valor1', 'value'),
     )
 def retorna_grafico(sel,rot,val):
-
+    
     ctx = dash.callback_context
+
+    if ctx.triggered==[]:
+        return dash.no_update
+
     tipo_grafico = ctx.triggered[0]["value"]
     id_graf = ctx.triggered[0]["prop_id"]
-    #print(go.Bar(x=list(df_pedido_2[rot].values),y=list(df_pedido_2[val].values)))
- 
-    if not ctx.triggered:
-        return graficos
-        
+
     if tipo_grafico=='barra':
         return html.Div([
-                        dcc.Graph(figure=go.Figure(go.Bar(x=list(df_pedido_2[rot].values),y=list(df_pedido_2[val].values))))
+                        # html.Button('Resetar eixos', id='reset-eixos',n_clicks=0),
+                        dcc.Graph(figure=go.Figure(go.Bar(x=list(df_pedido_2.groupby(rot).sum().index),y=df_pedido_2.groupby(rot).sum()[val])))
                 ], id='caixa-total1')
             
     elif tipo_grafico=='pizza':
         return html.Div([
-                dcc.Graph(figure=go.Figure(go.Pie(labels=df_pedido_2[rot],values=df_pedido_2[val])))
+                dcc.Graph(figure=go.Figure(go.Pie(labels=list(df_pedido_2.groupby(rot).sum().index),values=df_pedido_2.groupby(rot).sum()[val])))
         ], id='caixa-total1')
     
     elif tipo_grafico=='linha':
         return  html.Div([
-                dcc.Graph(figure=go.Figure(go.Scatter(x=df_pedido_2[rot],y=df_pedido_2[val])))
+                dcc.Graph(figure=go.Figure(go.Scatter(x=list(df_pedido_2.groupby(rot).sum().index),y=df_pedido_2.groupby(rot).sum()[val])))
         ], id='caixa-total1')
     
     elif tipo_grafico=='donut':
         return html.Div([
-                        dcc.Graph(figure=go.Figure(go.Pie(labels=df_pedido_2[rot],values=df_pedido_2[val],hole=0.5)))
+                        dcc.Graph(figure=go.Figure(go.Pie(labels=list(df_pedido_2.groupby(rot).sum().index),values=df_pedido_2.groupby(rot).sum()[val],hole=0.5)))
                 ], id='caixa-total1')
             
+
 
 @app.callback(
     dash.dependencies.Output('caixa-total2', 'children'),
@@ -200,15 +211,14 @@ def retorna_grafico(sel,rot,val):
 def retorna_grafico2(sel,rot,val):
 
     ctx = dash.callback_context
+    if ctx.triggered==[]:
+        return dash.no_update
     tipo_grafico = ctx.triggered[0]["value"]
     id_graf = ctx.triggered[0]["prop_id"]
-    print(ctx)
-    if not ctx.triggered:
-        return graficos
     
     if tipo_grafico=='barra':
         return html.Div([
-                        dcc.Graph(figure=go.Figure(go.Bar(x=list(df_pedido_2[rot].values),y=list(df_pedido_2[val].values))))
+                        dcc.Graph(figure=go.Figure(go.Bar(x=list(df_pedido_2.groupby(rot).sum().index),y=df_pedido_2.groupby(rot).sum()[val])))
                 ], id='caixa-total2')
             
     elif tipo_grafico=='pizza':
@@ -218,7 +228,7 @@ def retorna_grafico2(sel,rot,val):
     
     elif tipo_grafico=='linha':
         return  html.Div([
-                dcc.Graph(figure=go.Figure(go.Scatter(x=df_pedido_2[rot],y=df_pedido_2[val])))
+                dcc.Graph(figure=go.Figure(go.Scatter(x=list(df_pedido_2.groupby(rot).sum().index),y=df_pedido_2.groupby(rot).sum()[val])))
         ], id='caixa-total2')
     
     elif tipo_grafico=='donut':
@@ -237,15 +247,14 @@ def retorna_grafico2(sel,rot,val):
 def retorna_grafico3(sel,rot,val):
 
     ctx = dash.callback_context
+    if ctx.triggered==[]:
+        return dash.no_update
     tipo_grafico = ctx.triggered[0]["value"]
     id_graf = ctx.triggered[0]["prop_id"]
-    print(ctx)
-    if not ctx.triggered:
-        return graficos
-    
+
     if tipo_grafico=='barra':
         return html.Div([
-                        dcc.Graph(figure=go.Figure(go.Bar(x=list(df_pedido_2[rot].values),y=list(df_pedido_2[val].values))))
+                        dcc.Graph(figure=go.Figure(go.Bar(x=list(df_pedido_2.groupby(rot).sum().index),y=df_pedido_2.groupby(rot).sum()[val])))
                 ], id='caixa-total3')
             
     elif tipo_grafico=='pizza':
@@ -255,7 +264,7 @@ def retorna_grafico3(sel,rot,val):
     
     elif tipo_grafico=='linha':
         return  html.Div([
-                dcc.Graph(figure=go.Figure(go.Scatter(x=df_pedido_2[rot],y=df_pedido_2[val])))
+                dcc.Graph(figure=go.Figure(go.Scatter(x=list(df_pedido_2.groupby(rot).sum().index),y=df_pedido_2.groupby(rot).sum()[val])))
         ], id='caixa-total3')
     
     elif tipo_grafico=='donut':
@@ -274,15 +283,14 @@ def retorna_grafico3(sel,rot,val):
 def retorna_grafico4(sel,rot,val):
 
     ctx = dash.callback_context
+    if ctx.triggered==[]:
+        return dash.no_update
     tipo_grafico = ctx.triggered[0]["value"]
     id_graf = ctx.triggered[0]["prop_id"]
-    print(ctx)
-    if not ctx.triggered:
-        return graficos
 
     if tipo_grafico=='barra':
         return html.Div([
-                        dcc.Graph(figure=go.Figure(go.Bar(x=list(df_pedido_2[rot].values),y=list(df_pedido_2[val].values))))
+                        dcc.Graph(figure=go.Figure(go.Bar(x=list(df_pedido_2.groupby(rot).sum().index),y=df_pedido_2.groupby(rot).sum()[val])))
                 ], id='caixa-total4')
             
     elif tipo_grafico=='pizza':
@@ -292,7 +300,7 @@ def retorna_grafico4(sel,rot,val):
     
     elif tipo_grafico=='linha':
         return  html.Div([
-                dcc.Graph(figure=go.Figure(go.Scatter(x=df_pedido_2[rot],y=df_pedido_2[val])))
+                dcc.Graph(figure=go.Figure(go.Scatter(x=list(df_pedido_2.groupby(rot).sum().index),y=df_pedido_2.groupby(rot).sum()[val])))
         ], id='caixa-total4')
     
     elif tipo_grafico=='donut':
