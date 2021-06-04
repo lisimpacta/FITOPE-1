@@ -1,20 +1,10 @@
-<<<<<<< HEAD
-{% load plotly_dash %}
-=======
 {%load plotly_dash static%}
->>>>>>> 3ae25558bee93510f063b1d8521a429ca0292fc4
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Financeiro</title>
+    <title> Relatorios Personalizados</title>
 </head>
-<<<<<<< HEAD
-<body>
-    
-    <div style='width: 100%'>
-        {% plotly_app name='dash_integration_financeiro' ratio=1 %}
-=======
 <body style='margin: 0; padding: 0; font-family:verdana'>
     <div style='width: 100%; height:5em; background-color:#222aa4;'>
       <div style='background-color:#ebebeb; height:5em; float: left;'>
@@ -22,10 +12,17 @@
             <img src="{% static 'imagens/logo.png' %}" style='height:100%;'>
         </a>
       </div>
-      <div style='padding: 0.5em;'>
-        <h2 style='color:#ebebeb;'>Financeiro</h2>
+      <div style='padding: 0.10em;'>
+        <h2 style='color:#ebebeb;'> Relatorios Personalizados</h2>
       </div>
->>>>>>> 3ae25558bee93510f063b1d8521a429ca0292fc4
+      <div style='float: right;'>
+        <a class="btn btn-secundary" href="{% url 'personalizados' %}" title='Limpar'>
+          <img src="{% static 'imagens/refresh.png' %}" style='height: 3em;'>
+        </a>
+      </div>
     </div>
+ 
+        {% plotly_app name='dash_integration_id' ratio=1 %}
+
 </body>
 </html>

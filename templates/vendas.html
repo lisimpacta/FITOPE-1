@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 
+=======
+{% load plotly_dash static %}
+>>>>>>> 3ae25558bee93510f063b1d8521a429ca0292fc4
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -7,8 +11,17 @@
 
 </head>
 
-<body>
-  
+<body style='margin: 0; padding: 0; font-family: verdana'>
+<div style='width: 100%; height:5em; background-color:#222aa4;'>
+  <div style='background-color:#ebebeb; height:5em; float: left;'>
+    <a class="btn btn-secundary" href="{% url 'index' %}">
+        <img src="{% static 'imagens/logo.png' %}" style='height:100%;'>
+    </a>
+  </div>
+  <div style='padding: 0.5em;'>
+    <h2 style='color:#ebebeb;'>Vendas</h2>
+  </div>
+</div>
 <div style='width: 100%'>
    
         {% autoescape off %}
